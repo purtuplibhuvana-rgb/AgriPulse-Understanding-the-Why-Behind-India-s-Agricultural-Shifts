@@ -1,0 +1,5420 @@
+[
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Arecanut",
+        "break_year": 2017,
+        "break_season": "Kharif     ",
+        "shift_std": 2.2011198472422535,
+        "shift_pct": 272.4088277247157,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Arhar/Tur",
+        "break_year": 2003,
+        "break_season": "Kharif     ",
+        "shift_std": 0.9369395483768944,
+        "shift_pct": 25.6200864266447,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Arhar/Tur",
+        "break_year": 2011,
+        "break_season": "Rabi       ",
+        "shift_std": 0.7200530353849968,
+        "shift_pct": 17.62903549670418,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Bajra",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 1.7223305865871184,
+        "shift_pct": 74.63138895374219,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Bajra",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.5367661704633493,
+        "shift_pct": 75.77240601489366,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Banana",
+        "break_year": 2017,
+        "break_season": "Whole Year ",
+        "shift_std": 2.3866683966330084,
+        "shift_pct": 263.05905634964955,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Cashewnut",
+        "break_year": 2016,
+        "break_season": "Kharif     ",
+        "shift_std": 2.0505377445993216,
+        "shift_pct": 296.57069612813,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Castor seed",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6901017876546094,
+        "shift_pct": 119.96385620630976,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Castor seed",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4071619414126373,
+        "shift_pct": 66.57403923296783,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Coconut ",
+        "break_year": 2011,
+        "break_season": "Whole Year ",
+        "shift_std": 1.722826728116561,
+        "shift_pct": 44.18297902005081,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Cotton(lint)",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.1413570447795345,
+        "shift_pct": 38.85828229348549,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Dry chillies",
+        "break_year": 2002,
+        "break_season": "Rabi       ",
+        "shift_std": 1.618797120779918,
+        "shift_pct": 67.40124500705726,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Dry chillies",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 1.5654938347993845,
+        "shift_pct": 49.87293170525024,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Ginger",
+        "break_year": 2014,
+        "break_season": "Rabi       ",
+        "shift_std": 1.1670159774555156,
+        "shift_pct": -50.95217395250814,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Groundnut",
+        "break_year": 2014,
+        "break_season": "Rabi       ",
+        "shift_std": 1.549981059586635,
+        "shift_pct": 68.02960329694531,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Groundnut",
+        "break_year": 2004,
+        "break_season": "Rabi       ",
+        "shift_std": 1.1141636091688503,
+        "shift_pct": 58.69609687831602,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Horse-gram",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 0.5685801020411356,
+        "shift_pct": 16.6438432794468,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Jowar",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.1321071664058275,
+        "shift_pct": 81.78497862265587,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Maize",
+        "break_year": 2004,
+        "break_season": "Rabi       ",
+        "shift_std": 1.0216436677370413,
+        "shift_pct": 46.89314680681168,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Mesta",
+        "break_year": 2015,
+        "break_season": "Rabi       ",
+        "shift_std": 1.430275588669871,
+        "shift_pct": 19.269358814831527,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5099058885130285,
+        "shift_pct": 57.18114974732719,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Onion",
+        "break_year": 2017,
+        "break_season": "Kharif     ",
+        "shift_std": 1.7453332317541697,
+        "shift_pct": 645.5136173724065,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Other  Rabi pulses",
+        "break_year": 2014,
+        "break_season": "Rabi       ",
+        "shift_std": 1.5404133087323248,
+        "shift_pct": 153.05801787692502,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Other Kharif pulses",
+        "break_year": 2008,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4898194458261493,
+        "shift_pct": 106.20881905754528,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Potato",
+        "break_year": 2011,
+        "break_season": "Whole Year ",
+        "shift_std": 0.8723756002809802,
+        "shift_pct": 35.9797129240432,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Rice",
+        "break_year": 2014,
+        "break_season": "Rabi       ",
+        "shift_std": 1.6569931092032908,
+        "shift_pct": 24.530722835138715,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Rice",
+        "break_year": 2004,
+        "break_season": "Rabi       ",
+        "shift_std": 1.344170436207418,
+        "shift_pct": 21.5234283284161,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Safflower",
+        "break_year": 2018,
+        "break_season": "Kharif     ",
+        "shift_std": 1.1669386864815021,
+        "shift_pct": -51.682018417692646,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Safflower",
+        "break_year": 2010,
+        "break_season": "Rabi       ",
+        "shift_std": 0.8571554646906925,
+        "shift_pct": 52.87063839816641,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Sesamum",
+        "break_year": 2004,
+        "break_season": "Rabi       ",
+        "shift_std": 1.1669616820809552,
+        "shift_pct": 37.041047008968256,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Small millets",
+        "break_year": 2006,
+        "break_season": "Kharif     ",
+        "shift_std": 1.0716365220158293,
+        "shift_pct": 44.581063973148304,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Soyabean",
+        "break_year": 2008,
+        "break_season": "Kharif     ",
+        "shift_std": 1.1536368197880114,
+        "shift_pct": 48.44453493738129,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Sugarcane",
+        "break_year": 2007,
+        "break_season": "Whole Year ",
+        "shift_std": 1.1797012187862121,
+        "shift_pct": 7.447798584011806,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Sunflower",
+        "break_year": 2000,
+        "break_season": "Kharif     ",
+        "shift_std": 1.8207383951276288,
+        "shift_pct": 71.3581323090806,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Sweet potato",
+        "break_year": 2016,
+        "break_season": "Rabi       ",
+        "shift_std": 1.6193559148270276,
+        "shift_pct": 50.745122494947466,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Tapioca",
+        "break_year": 2011,
+        "break_season": "Whole Year ",
+        "shift_std": 1.1907003153129578,
+        "shift_pct": 71.43384516765936,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Urad",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.585627734112038,
+        "shift_pct": 66.64493673161289,
+        "explanation": null
+    },
+    {
+        "state": "Andhra Pradesh",
+        "crop": "Wheat",
+        "break_year": 2017,
+        "break_season": "Kharif     ",
+        "shift_std": 1.0176863746639535,
+        "shift_pct": -48.68187113326366,
+        "explanation": null
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "crop": "Dry chillies",
+        "break_year": 2013,
+        "break_season": "Whole Year ",
+        "shift_std": 1.8285016743922657,
+        "shift_pct": 62.552966813325796,
+        "explanation": null
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "crop": "Ginger",
+        "break_year": 2008,
+        "break_season": "Whole Year ",
+        "shift_std": 1.1824063760082943,
+        "shift_pct": 9.368612566278404,
+        "explanation": null
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "crop": "Maize",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5846167965313687,
+        "shift_pct": 10.599817596859639,
+        "explanation": null
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "crop": "Oilseeds total",
+        "break_year": 2007,
+        "break_season": "Whole Year ",
+        "shift_std": 1.0124161151911388,
+        "shift_pct": 16.760688673832554,
+        "explanation": null
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "crop": "Potato",
+        "break_year": 2003,
+        "break_season": "Whole Year ",
+        "shift_std": 1.1382336881068518,
+        "shift_pct": 6.598559953227531,
+        "explanation": null
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "crop": "Rice",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.7322036051852712,
+        "shift_pct": 42.336071421020364,
+        "explanation": null
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "crop": "Small millets",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.262940820250553,
+        "shift_pct": 8.590144317315415,
+        "explanation": null
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "crop": "Sugarcane",
+        "break_year": 2012,
+        "break_season": "Whole Year ",
+        "shift_std": 1.6677181990876293,
+        "shift_pct": 24.973046909799184,
+        "explanation": null
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "crop": "Turmeric",
+        "break_year": 2013,
+        "break_season": "Whole Year ",
+        "shift_std": 1.0132153644766282,
+        "shift_pct": 15.02100125063697,
+        "explanation": null
+    },
+    {
+        "state": "Arunachal Pradesh",
+        "crop": "Wheat",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 1.7273907649974225,
+        "shift_pct": 35.21732817456466,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Arhar/Tur",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.9595232729207859,
+        "shift_pct": 21.48581883036856,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Banana",
+        "break_year": 2014,
+        "break_season": "Whole Year ",
+        "shift_std": 1.8955773807496663,
+        "shift_pct": 20.49447154723016,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Black pepper",
+        "break_year": 2017,
+        "break_season": "Whole Year ",
+        "shift_std": 2.0616481822851647,
+        "shift_pct": 28.77217467498154,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Castor seed",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.8527682584965293,
+        "shift_pct": 44.451828581710004,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Coconut ",
+        "break_year": 2002,
+        "break_season": "Whole Year ",
+        "shift_std": 1.3398597592653991,
+        "shift_pct": 23.383424158198064,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Cotton(lint)",
+        "break_year": 2017,
+        "break_season": "Kharif     ",
+        "shift_std": 2.0113017744784325,
+        "shift_pct": 31.66147097775509,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Cotton(lint)",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4725842683241603,
+        "shift_pct": 25.466067336614994,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Dry chillies",
+        "break_year": 2012,
+        "break_season": "Whole Year ",
+        "shift_std": 1.9648221040370515,
+        "shift_pct": 28.4363735247764,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Ginger",
+        "break_year": 2012,
+        "break_season": "Whole Year ",
+        "shift_std": 1.7259836713401715,
+        "shift_pct": 19.527616480066683,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Gram",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 1.87075989175014,
+        "shift_pct": 32.81476197395949,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Jute",
+        "break_year": 2017,
+        "break_season": "Kharif     ",
+        "shift_std": 1.54048657592689,
+        "shift_pct": 15.865442076709382,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Linseed",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 1.8355978190652456,
+        "shift_pct": 20.352537367107978,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Maize",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 2.1152871613714366,
+        "shift_pct": 367.77177630105774,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Masoor",
+        "break_year": 2011,
+        "break_season": "Rabi       ",
+        "shift_std": 1.712420229935588,
+        "shift_pct": 32.73478295094892,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Mesta",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.7377025002157815,
+        "shift_pct": 21.195335727143107,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2011,
+        "break_season": "Rabi       ",
+        "shift_std": 1.8703648491625646,
+        "shift_pct": 41.786169052042354,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Niger seed",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 0.7591162180072192,
+        "shift_pct": 4.569063132709622,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Onion",
+        "break_year": 2017,
+        "break_season": "Whole Year ",
+        "shift_std": 2.271310628590026,
+        "shift_pct": 152.88942693359039,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Onion",
+        "break_year": 2012,
+        "break_season": "Whole Year ",
+        "shift_std": 1.709395285481189,
+        "shift_pct": 143.97623253856963,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Other  Rabi pulses",
+        "break_year": 2016,
+        "break_season": "Rabi       ",
+        "shift_std": 2.1699030023839816,
+        "shift_pct": 30.807069739548048,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Peas & beans (Pulses)",
+        "break_year": 2011,
+        "break_season": "Rabi       ",
+        "shift_std": 1.6549836649993597,
+        "shift_pct": 40.874560860666094,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Potato",
+        "break_year": 2002,
+        "break_season": "Whole Year ",
+        "shift_std": 0.9207038888054956,
+        "shift_pct": -6.936689996590604,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 1.858618079595681,
+        "shift_pct": 21.660326265801952,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Rice",
+        "break_year": 2010,
+        "break_season": "Summer     ",
+        "shift_std": 1.1689710776567155,
+        "shift_pct": 40.87956784580548,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Sesamum",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.9859637530318819,
+        "shift_pct": 30.254080047293037,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Small millets",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.2773885703879264,
+        "shift_pct": 17.875958213421605,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Sugarcane",
+        "break_year": 2002,
+        "break_season": "Whole Year ",
+        "shift_std": 1.2867953167412909,
+        "shift_pct": -5.59562860534798,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Sweet potato",
+        "break_year": 2012,
+        "break_season": "Whole Year ",
+        "shift_std": 2.0152117640878155,
+        "shift_pct": 53.56395129813822,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Tapioca",
+        "break_year": 2013,
+        "break_season": "Whole Year ",
+        "shift_std": 1.775171758043808,
+        "shift_pct": 71.89946975622358,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Tobacco",
+        "break_year": 2007,
+        "break_season": "Whole Year ",
+        "shift_std": 1.1668058778771717,
+        "shift_pct": 12.533691267692335,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Turmeric",
+        "break_year": 2017,
+        "break_season": "Whole Year ",
+        "shift_std": 2.385172271488043,
+        "shift_pct": 57.816301930394154,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Turmeric",
+        "break_year": 2012,
+        "break_season": "Whole Year ",
+        "shift_std": 1.8468246807398048,
+        "shift_pct": 48.6753570466034,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Urad",
+        "break_year": 2011,
+        "break_season": "Rabi       ",
+        "shift_std": 1.4215896115341065,
+        "shift_pct": 15.494448210010987,
+        "explanation": null
+    },
+    {
+        "state": "Assam",
+        "crop": "Wheat",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 1.3237069154233234,
+        "shift_pct": 10.973056276669066,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Arhar/Tur",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.531857414159933,
+        "shift_pct": 28.247046419354255,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Bajra",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 2.329469759565867,
+        "shift_pct": 65.21737438289745,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Barley",
+        "break_year": 2008,
+        "break_season": "Rabi       ",
+        "shift_std": 1.202477434606759,
+        "shift_pct": 20.519671590245718,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Castor seed",
+        "break_year": 2005,
+        "break_season": "Kharif     ",
+        "shift_std": 1.2223667361106698,
+        "shift_pct": 7.595798233117852,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Coriander",
+        "break_year": 2016,
+        "break_season": "Whole Year ",
+        "shift_std": 1.8115171805322083,
+        "shift_pct": 43.48401598984871,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Garlic",
+        "break_year": 2002,
+        "break_season": "Whole Year ",
+        "shift_std": 1.7382912693999566,
+        "shift_pct": 8.990156192070401,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Ginger",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.8519792137364597,
+        "shift_pct": 28.24193152472436,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Gram",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.1163158092640064,
+        "shift_pct": 22.672417423172554,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Groundnut",
+        "break_year": 2008,
+        "break_season": "Kharif     ",
+        "shift_std": 0.9207666443180194,
+        "shift_pct": 29.85993559798,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Horse-gram",
+        "break_year": 2004,
+        "break_season": "Kharif     ",
+        "shift_std": 1.8810376200577748,
+        "shift_pct": 21.28455618590654,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Jute",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.7639891276125266,
+        "shift_pct": 68.61961939018272,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Khesari",
+        "break_year": 2009,
+        "break_season": "Rabi       ",
+        "shift_std": 1.392885340515568,
+        "shift_pct": 22.861265181236547,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Linseed",
+        "break_year": 2002,
+        "break_season": "Rabi       ",
+        "shift_std": 2.1525747038482197,
+        "shift_pct": 31.517384261736964,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Maize",
+        "break_year": 2010,
+        "break_season": "Rabi       ",
+        "shift_std": 1.2949872394801112,
+        "shift_pct": 59.473300689527576,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Masoor",
+        "break_year": 2009,
+        "break_season": "Rabi       ",
+        "shift_std": 1.1945727097662073,
+        "shift_pct": 19.58210297852958,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Mesta",
+        "break_year": 2017,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5757789153266684,
+        "shift_pct": -75.41203134497381,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2011,
+        "break_season": "Summer     ",
+        "shift_std": 1.4462792752035534,
+        "shift_pct": 27.257692420727114,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2006,
+        "break_season": "Summer     ",
+        "shift_std": 1.3682872153411128,
+        "shift_pct": 27.301669440245885,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Onion",
+        "break_year": 2008,
+        "break_season": "Whole Year ",
+        "shift_std": 1.2802100892901378,
+        "shift_pct": 25.36575893788825,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Other  Rabi pulses",
+        "break_year": 2008,
+        "break_season": "Rabi       ",
+        "shift_std": 1.3996807915802407,
+        "shift_pct": 25.350656680256296,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Other Kharif pulses",
+        "break_year": 2009,
+        "break_season": "Kharif     ",
+        "shift_std": 1.8519287176755872,
+        "shift_pct": 42.54606894286946,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Peas & beans (Pulses)",
+        "break_year": 2009,
+        "break_season": "Rabi       ",
+        "shift_std": 1.2364876883921663,
+        "shift_pct": 10.286743557200284,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Potato",
+        "break_year": 2017,
+        "break_season": "Winter     ",
+        "shift_std": 1.4549748650189995,
+        "shift_pct": 40.71429094538207,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Ragi",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 0.9014844606753402,
+        "shift_pct": 24.366031460302512,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.6606012970740953,
+        "shift_pct": 35.35759886067104,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Rice",
+        "break_year": 2010,
+        "break_season": "Winter     ",
+        "shift_std": 1.4164405541340976,
+        "shift_pct": 54.53370521499474,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Safflower",
+        "break_year": 2002,
+        "break_season": "Rabi       ",
+        "shift_std": 1.8251795669912354,
+        "shift_pct": 27.446354371036534,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Sesamum",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 2.0474114013595246,
+        "shift_pct": 41.865551123497035,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Sesamum",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6432076358242336,
+        "shift_pct": 29.468023597539094,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Small millets",
+        "break_year": 2003,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3551702807051749,
+        "shift_pct": 10.593578775791158,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Sugarcane",
+        "break_year": 2014,
+        "break_season": "Whole Year ",
+        "shift_std": 1.8108692087828893,
+        "shift_pct": 47.43192647802295,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Sunflower",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 1.8512073422516147,
+        "shift_pct": 29.943993697795573,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Sweet potato",
+        "break_year": 2002,
+        "break_season": "Whole Year ",
+        "shift_std": 1.2341587696193712,
+        "shift_pct": 11.80762964138061,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Tobacco",
+        "break_year": 2009,
+        "break_season": "Whole Year ",
+        "shift_std": 1.7487463758495359,
+        "shift_pct": 61.049409179870416,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Turmeric",
+        "break_year": 2002,
+        "break_season": "Whole Year ",
+        "shift_std": 1.4360283432405134,
+        "shift_pct": -8.91345687009215,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Urad",
+        "break_year": 2008,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6700080131877362,
+        "shift_pct": 21.08470339964801,
+        "explanation": null
+    },
+    {
+        "state": "Bihar",
+        "crop": "Wheat",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.3995333342995202,
+        "shift_pct": 35.98519378260078,
+        "explanation": null
+    },
+    {
+        "state": "Chhattisgarh",
+        "crop": "Cotton(lint)",
+        "break_year": 2015,
+        "break_season": "Whole Year ",
+        "shift_std": 1.428117809121378,
+        "shift_pct": 69.58027782010953,
+        "explanation": null
+    },
+    {
+        "state": "Chhattisgarh",
+        "crop": "Gram",
+        "break_year": 2010,
+        "break_season": "Rabi       ",
+        "shift_std": 0.9823010228548279,
+        "shift_pct": 26.802802177781476,
+        "explanation": null
+    },
+    {
+        "state": "Chhattisgarh",
+        "crop": "Groundnut",
+        "break_year": 2005,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3487294952446192,
+        "shift_pct": 19.437322260583294,
+        "explanation": null
+    },
+    {
+        "state": "Chhattisgarh",
+        "crop": "Linseed",
+        "break_year": 2010,
+        "break_season": "Rabi       ",
+        "shift_std": 1.0340158367886652,
+        "shift_pct": 24.760181900182545,
+        "explanation": null
+    },
+    {
+        "state": "Chhattisgarh",
+        "crop": "Maize",
+        "break_year": 2010,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4925851706126687,
+        "shift_pct": 78.1078427843235,
+        "explanation": null
+    },
+    {
+        "state": "Chhattisgarh",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2014,
+        "break_season": "Rabi       ",
+        "shift_std": 1.1354707364956451,
+        "shift_pct": 41.23465107387225,
+        "explanation": null
+    },
+    {
+        "state": "Chhattisgarh",
+        "crop": "Other Kharif pulses",
+        "break_year": 2005,
+        "break_season": "Kharif     ",
+        "shift_std": 1.495658518219745,
+        "shift_pct": -19.82403125565793,
+        "explanation": null
+    },
+    {
+        "state": "Chhattisgarh",
+        "crop": "Peas & beans (Pulses)",
+        "break_year": 2010,
+        "break_season": "Rabi       ",
+        "shift_std": 1.440560508781136,
+        "shift_pct": 10.233700618614757,
+        "explanation": null
+    },
+    {
+        "state": "Chhattisgarh",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2010,
+        "break_season": "Rabi       ",
+        "shift_std": 1.6249184937538153,
+        "shift_pct": 34.75306795999137,
+        "explanation": null
+    },
+    {
+        "state": "Chhattisgarh",
+        "crop": "Rice",
+        "break_year": 2010,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4439495094544916,
+        "shift_pct": 46.802215573762766,
+        "explanation": null
+    },
+    {
+        "state": "Chhattisgarh",
+        "crop": "Safflower",
+        "break_year": 2010,
+        "break_season": "Rabi       ",
+        "shift_std": 1.4532619740201247,
+        "shift_pct": 34.35196852712653,
+        "explanation": null
+    },
+    {
+        "state": "Chhattisgarh",
+        "crop": "Sesamum",
+        "break_year": 2005,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3895202149398862,
+        "shift_pct": 39.44859989025907,
+        "explanation": null
+    },
+    {
+        "state": "Chhattisgarh",
+        "crop": "Turmeric",
+        "break_year": 2015,
+        "break_season": "Whole Year ",
+        "shift_std": 1.323044622010818,
+        "shift_pct": 16.722161321891214,
+        "explanation": null
+    },
+    {
+        "state": "Chhattisgarh",
+        "crop": "Urad",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 1.0088298128500635,
+        "shift_pct": 13.57416501655782,
+        "explanation": null
+    },
+    {
+        "state": "Chhattisgarh",
+        "crop": "Wheat",
+        "break_year": 2010,
+        "break_season": "Rabi       ",
+        "shift_std": 1.7046396494782434,
+        "shift_pct": 34.655860649380614,
+        "explanation": null
+    },
+    {
+        "state": "Delhi",
+        "crop": "Bajra",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4187597563719392,
+        "shift_pct": 38.455306290153565,
+        "explanation": null
+    },
+    {
+        "state": "Delhi",
+        "crop": "Barley",
+        "break_year": 2003,
+        "break_season": "Kharif     ",
+        "shift_std": 2.3681704385869105,
+        "shift_pct": 621.1946474222119,
+        "explanation": null
+    },
+    {
+        "state": "Delhi",
+        "crop": "Gram",
+        "break_year": 2008,
+        "break_season": "Rabi       ",
+        "shift_std": 0.8411604366425641,
+        "shift_pct": 207.15746167086965,
+        "explanation": null
+    },
+    {
+        "state": "Delhi",
+        "crop": "Jowar",
+        "break_year": 2003,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5793942152503784,
+        "shift_pct": 48.161763953354786,
+        "explanation": null
+    },
+    {
+        "state": "Delhi",
+        "crop": "Maize",
+        "break_year": 2008,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3339493677035086,
+        "shift_pct": 717.1253778769089,
+        "explanation": null
+    },
+    {
+        "state": "Delhi",
+        "crop": "Potato",
+        "break_year": 2009,
+        "break_season": "Whole Year ",
+        "shift_std": 1.3250674794650792,
+        "shift_pct": 1231.2564004513004,
+        "explanation": null
+    },
+    {
+        "state": "Delhi",
+        "crop": "Rice",
+        "break_year": 2003,
+        "break_season": "Kharif     ",
+        "shift_std": 2.199517330671376,
+        "shift_pct": 57.603861968216975,
+        "explanation": null
+    },
+    {
+        "state": "Delhi",
+        "crop": "Sugarcane",
+        "break_year": 2003,
+        "break_season": "Whole Year ",
+        "shift_std": 1.4938097620831998,
+        "shift_pct": 31.56861053872181,
+        "explanation": null
+    },
+    {
+        "state": "Delhi",
+        "crop": "Wheat",
+        "break_year": 2003,
+        "break_season": "Rabi       ",
+        "shift_std": 2.2579928793822965,
+        "shift_pct": 19.980554150110272,
+        "explanation": null
+    },
+    {
+        "state": "Goa",
+        "crop": "Arecanut",
+        "break_year": 2003,
+        "break_season": "Whole Year ",
+        "shift_std": 1.5454783739140403,
+        "shift_pct": 24.251760392593248,
+        "explanation": null
+    },
+    {
+        "state": "Goa",
+        "crop": "Banana",
+        "break_year": 2003,
+        "break_season": "Whole Year ",
+        "shift_std": 1.7456622763076073,
+        "shift_pct": 48.13508058046357,
+        "explanation": null
+    },
+    {
+        "state": "Goa",
+        "crop": "Black pepper",
+        "break_year": 2013,
+        "break_season": "Whole Year ",
+        "shift_std": 1.3293392869928897,
+        "shift_pct": 49.09414705281242,
+        "explanation": null
+    },
+    {
+        "state": "Goa",
+        "crop": "Cashewnut",
+        "break_year": 2003,
+        "break_season": "Whole Year ",
+        "shift_std": 1.0943923616666225,
+        "shift_pct": 17.383512077504164,
+        "explanation": null
+    },
+    {
+        "state": "Goa",
+        "crop": "Groundnut",
+        "break_year": 2009,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5495980906346374,
+        "shift_pct": 48.09016876587244,
+        "explanation": null
+    },
+    {
+        "state": "Goa",
+        "crop": "Other Kharif pulses",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 1.0094533056811341,
+        "shift_pct": 50.41827428272867,
+        "explanation": null
+    },
+    {
+        "state": "Goa",
+        "crop": "Rice",
+        "break_year": 2011,
+        "break_season": "Rabi       ",
+        "shift_std": 0.5736166603509751,
+        "shift_pct": 5.64762999098375,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Arhar/Tur",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3447821134408433,
+        "shift_pct": 35.03753198823641,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Bajra",
+        "break_year": 2009,
+        "break_season": "Summer     ",
+        "shift_std": 0.7671126047187165,
+        "shift_pct": 30.637053606133634,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Banana",
+        "break_year": 2008,
+        "break_season": "Whole Year ",
+        "shift_std": 1.4693329768776129,
+        "shift_pct": 17.956186700335866,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Cotton(lint)",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6987890942290875,
+        "shift_pct": 79.20242851401457,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Dry chillies",
+        "break_year": 2017,
+        "break_season": "Whole Year ",
+        "shift_std": 1.5246325118132957,
+        "shift_pct": 73.09429526490484,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Garlic",
+        "break_year": 2017,
+        "break_season": "Whole Year ",
+        "shift_std": 1.6042982335458085,
+        "shift_pct": 24.421287245738803,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Gram",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.546675257614281,
+        "shift_pct": 56.624420611426,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Groundnut",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.2967410253987945,
+        "shift_pct": 45.72270546788846,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Groundnut",
+        "break_year": 2004,
+        "break_season": "Summer     ",
+        "shift_std": 1.1573695540639,
+        "shift_pct": 46.162341435914236,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Jowar",
+        "break_year": 2004,
+        "break_season": "Rabi       ",
+        "shift_std": 1.4825258504521346,
+        "shift_pct": 44.82100636937662,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Jowar",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4121037678945154,
+        "shift_pct": 37.00883536534748,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Maize",
+        "break_year": 2010,
+        "break_season": "Summer     ",
+        "shift_std": 1.1028319726648388,
+        "shift_pct": 32.12743939690156,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Maize",
+        "break_year": 2015,
+        "break_season": "Summer     ",
+        "shift_std": 1.0831053234389785,
+        "shift_pct": 28.32868421004261,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2018,
+        "break_season": "Summer     ",
+        "shift_std": 2.368028082525281,
+        "shift_pct": 85.64801275469043,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Moth",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 1.175708949679356,
+        "shift_pct": 77.52191450184213,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Other  Rabi pulses",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.1352928263916244,
+        "shift_pct": 34.41143476494507,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Other Cereals",
+        "break_year": 2005,
+        "break_season": "Kharif     ",
+        "shift_std": 1.429868066742258,
+        "shift_pct": 193.42115586195794,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Other Kharif pulses",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3237174189946757,
+        "shift_pct": 32.805865030792646,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Potato",
+        "break_year": 2017,
+        "break_season": "Whole Year ",
+        "shift_std": 2.030444205590835,
+        "shift_pct": 25.266649927638703,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Potato",
+        "break_year": 2012,
+        "break_season": "Whole Year ",
+        "shift_std": 1.423738619676765,
+        "shift_pct": 18.23975052098438,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2002,
+        "break_season": "Rabi       ",
+        "shift_std": 1.544189968210266,
+        "shift_pct": 35.55740800667811,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 1.5364691241990716,
+        "shift_pct": 30.625986225792644,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Small millets",
+        "break_year": 2014,
+        "break_season": "Rabi       ",
+        "shift_std": 2.2550031978759635,
+        "shift_pct": 319.12336199975056,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Soyabean",
+        "break_year": 2015,
+        "break_season": "Kharif     ",
+        "shift_std": 1.2317244999282189,
+        "shift_pct": 44.89401227209919,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Tobacco",
+        "break_year": 2015,
+        "break_season": "Rabi       ",
+        "shift_std": 1.2552761881346133,
+        "shift_pct": 33.922226005180924,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Urad",
+        "break_year": 2018,
+        "break_season": "Summer     ",
+        "shift_std": 2.2791171846942864,
+        "shift_pct": 89.45406845103763,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Urad",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 0.980462536474742,
+        "shift_pct": 47.3276839862873,
+        "explanation": null
+    },
+    {
+        "state": "Gujarat",
+        "crop": "Wheat",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.4799138141150474,
+        "shift_pct": 16.974603658641037,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Arhar/Tur",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4386593971211727,
+        "shift_pct": 26.066716805522784,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Bajra",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 1.880633377295382,
+        "shift_pct": 74.69314275905452,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Barley",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 1.8358117536521847,
+        "shift_pct": 78.884153169344,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Coriander",
+        "break_year": 2013,
+        "break_season": "Whole Year ",
+        "shift_std": 1.7478273031620202,
+        "shift_pct": 406.7411246329808,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Cotton(lint)",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6611724522334355,
+        "shift_pct": 85.05297346397037,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Cotton(lint)",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6055406456777785,
+        "shift_pct": 98.89848192381608,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Dry chillies",
+        "break_year": 2004,
+        "break_season": "Whole Year ",
+        "shift_std": 1.2196566464725336,
+        "shift_pct": 561.7437398034909,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Garlic",
+        "break_year": 2013,
+        "break_season": "Whole Year ",
+        "shift_std": 1.5418049466141095,
+        "shift_pct": 109.59003021852058,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Ginger",
+        "break_year": 2014,
+        "break_season": "Whole Year ",
+        "shift_std": 1.3480700691765453,
+        "shift_pct": 242.08756642474745,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Gram",
+        "break_year": 2016,
+        "break_season": "Rabi       ",
+        "shift_std": 2.3393539424147627,
+        "shift_pct": 115.69643315315297,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Groundnut",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.822751918161464,
+        "shift_pct": 118.11582221198478,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Horse-gram",
+        "break_year": 2011,
+        "break_season": "Kharif     ",
+        "shift_std": 1.382248934538378,
+        "shift_pct": 334.38089899106063,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Jowar",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4713378626776328,
+        "shift_pct": 162.2785351775397,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Maize",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.8213496558341078,
+        "shift_pct": 193.11890749342783,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Masoor",
+        "break_year": 2013,
+        "break_season": "Rabi       ",
+        "shift_std": 1.1572706359225668,
+        "shift_pct": 24.541565589430803,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.8296329841768362,
+        "shift_pct": 193.00857049710055,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Moth",
+        "break_year": 2008,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3268312854924047,
+        "shift_pct": 307.2268790870333,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Peas & beans (Pulses)",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.2270708690542498,
+        "shift_pct": 634.2906761288732,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Potato",
+        "break_year": 2013,
+        "break_season": "Whole Year ",
+        "shift_std": 0.9830833344123577,
+        "shift_pct": 19.763099446975982,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2008,
+        "break_season": "Rabi       ",
+        "shift_std": 1.687963140236211,
+        "shift_pct": 45.948006826257114,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Rice",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5294892700589642,
+        "shift_pct": 16.120097526497,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Rice",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.377963511765466,
+        "shift_pct": 13.501782767530981,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Sesamum",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6994905280966304,
+        "shift_pct": 181.89509533042894,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Sugarcane",
+        "break_year": 2012,
+        "break_season": "Whole Year ",
+        "shift_std": 1.5926342893325063,
+        "shift_pct": 71.55786576729723,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Sunflower",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3545145825260292,
+        "shift_pct": 72.52920914860071,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Turmeric",
+        "break_year": 2013,
+        "break_season": "Whole Year ",
+        "shift_std": 1.9574261011466882,
+        "shift_pct": 848.873806624756,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "Wheat",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.4898897163964504,
+        "shift_pct": 15.529267123338736,
+        "explanation": null
+    },
+    {
+        "state": "Haryana",
+        "crop": "other oilseeds",
+        "break_year": 2016,
+        "break_season": "Rabi       ",
+        "shift_std": 1.3725901287098436,
+        "shift_pct": 122.52777574953706,
+        "explanation": null
+    },
+    {
+        "state": "Himachal Pradesh",
+        "crop": "Arhar/Tur",
+        "break_year": 2015,
+        "break_season": "Kharif     ",
+        "shift_std": 1.2327733975011523,
+        "shift_pct": 47.37788790984378,
+        "explanation": null
+    },
+    {
+        "state": "Himachal Pradesh",
+        "crop": "Dry chillies",
+        "break_year": 2006,
+        "break_season": "Kharif     ",
+        "shift_std": 1.1835742856452707,
+        "shift_pct": 41.608153902345435,
+        "explanation": null
+    },
+    {
+        "state": "Himachal Pradesh",
+        "crop": "Garlic",
+        "break_year": 2016,
+        "break_season": "Rabi       ",
+        "shift_std": 1.6038836047695646,
+        "shift_pct": -49.99716494304515,
+        "explanation": null
+    },
+    {
+        "state": "Himachal Pradesh",
+        "crop": "Gram",
+        "break_year": 2010,
+        "break_season": "Rabi       ",
+        "shift_std": 0.9077736300289092,
+        "shift_pct": 30.69508523889324,
+        "explanation": null
+    },
+    {
+        "state": "Himachal Pradesh",
+        "crop": "Groundnut",
+        "break_year": 2005,
+        "break_season": "Kharif     ",
+        "shift_std": 1.7039078397692422,
+        "shift_pct": 65.27614671543873,
+        "explanation": null
+    },
+    {
+        "state": "Himachal Pradesh",
+        "crop": "Horse-gram",
+        "break_year": 2010,
+        "break_season": "Kharif     ",
+        "shift_std": 1.0547597112855924,
+        "shift_pct": 29.722566024838653,
+        "explanation": null
+    },
+    {
+        "state": "Himachal Pradesh",
+        "crop": "Linseed",
+        "break_year": 2010,
+        "break_season": "Rabi       ",
+        "shift_std": 0.9214298980129199,
+        "shift_pct": 37.3011414096984,
+        "explanation": null
+    },
+    {
+        "state": "Himachal Pradesh",
+        "crop": "Masoor",
+        "break_year": 2010,
+        "break_season": "Rabi       ",
+        "shift_std": 1.1229260181448284,
+        "shift_pct": 38.05385255468618,
+        "explanation": null
+    },
+    {
+        "state": "Himachal Pradesh",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2015,
+        "break_season": "Kharif     ",
+        "shift_std": 1.343592270948926,
+        "shift_pct": 46.65693855081318,
+        "explanation": null
+    },
+    {
+        "state": "Himachal Pradesh",
+        "crop": "Moth",
+        "break_year": 2016,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6452613713900164,
+        "shift_pct": 150.7955375507662,
+        "explanation": null
+    },
+    {
+        "state": "Himachal Pradesh",
+        "crop": "Other  Rabi pulses",
+        "break_year": 2017,
+        "break_season": "Rabi       ",
+        "shift_std": 1.6009823847734566,
+        "shift_pct": 237.20254679998303,
+        "explanation": null
+    },
+    {
+        "state": "Himachal Pradesh",
+        "crop": "Other Kharif pulses",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3418809733112433,
+        "shift_pct": 66.90032996319427,
+        "explanation": null
+    },
+    {
+        "state": "Himachal Pradesh",
+        "crop": "Peas & beans (Pulses)",
+        "break_year": 2016,
+        "break_season": "Rabi       ",
+        "shift_std": 1.1000571790800933,
+        "shift_pct": 36.195464696920574,
+        "explanation": null
+    },
+    {
+        "state": "Himachal Pradesh",
+        "crop": "Small millets",
+        "break_year": 2010,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6079394539399108,
+        "shift_pct": 51.6925737903173,
+        "explanation": null
+    },
+    {
+        "state": "Himachal Pradesh",
+        "crop": "Sugarcane",
+        "break_year": 2006,
+        "break_season": "Whole Year ",
+        "shift_std": 1.7453498413212085,
+        "shift_pct": 274.0878273137576,
+        "explanation": null
+    },
+    {
+        "state": "Himachal Pradesh",
+        "crop": "Urad",
+        "break_year": 2010,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3320929232537966,
+        "shift_pct": 37.67982775975243,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "Cotton(lint)",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3847028810444195,
+        "shift_pct": 15.122404382222406,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "Dry chillies",
+        "break_year": 2016,
+        "break_season": "Kharif     ",
+        "shift_std": 1.0793689658609695,
+        "shift_pct": -10.20433012284238,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "Ginger",
+        "break_year": 2017,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5399829296226024,
+        "shift_pct": 46.75437113681588,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "Groundnut",
+        "break_year": 2006,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3053195400730067,
+        "shift_pct": 17.61810988940729,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "Linseed",
+        "break_year": 2016,
+        "break_season": "Rabi       ",
+        "shift_std": 1.0339211615029367,
+        "shift_pct": 39.271730034193716,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "Maize",
+        "break_year": 2015,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6084718468504005,
+        "shift_pct": 22.448615130337124,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "Masoor",
+        "break_year": 2015,
+        "break_season": "Rabi       ",
+        "shift_std": 1.51247808112686,
+        "shift_pct": 70.58104884814678,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2015,
+        "break_season": "Kharif     ",
+        "shift_std": 0.8143806094011009,
+        "shift_pct": -30.86292648583112,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "Moth",
+        "break_year": 2011,
+        "break_season": "Kharif     ",
+        "shift_std": 1.440207446700348,
+        "shift_pct": 9.941567016966978,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "Other Cereals",
+        "break_year": 2018,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3715118063344827,
+        "shift_pct": 208.9005768962033,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "Other Kharif pulses",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3940651041889587,
+        "shift_pct": 80.04370610728304,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "Peas & beans (Pulses)",
+        "break_year": 2011,
+        "break_season": "Kharif     ",
+        "shift_std": 0.959153269124212,
+        "shift_pct": 194.45214816023073,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2010,
+        "break_season": "Rabi       ",
+        "shift_std": 0.9942535814832044,
+        "shift_pct": 51.63179677721891,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "Rice",
+        "break_year": 2003,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3566754401140662,
+        "shift_pct": 51.658209457118254,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "Sannhamp",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.7092033571179157,
+        "shift_pct": 43.04464744626623,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "Sugarcane",
+        "break_year": 2011,
+        "break_season": "Kharif     ",
+        "shift_std": 1.1830931616585239,
+        "shift_pct": -36.63939654335386,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "Tobacco",
+        "break_year": 2006,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3716731300133205,
+        "shift_pct": 56.37966571038735,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "Urad",
+        "break_year": 2011,
+        "break_season": "Kharif     ",
+        "shift_std": 0.8731862757343546,
+        "shift_pct": -11.423461390074774,
+        "explanation": null
+    },
+    {
+        "state": "Jammu and Kashmir",
+        "crop": "other oilseeds",
+        "break_year": 2008,
+        "break_season": "Rabi       ",
+        "shift_std": 0.9009206886033828,
+        "shift_pct": 45.09241454052525,
+        "explanation": null
+    },
+    {
+        "state": "Jharkhand",
+        "crop": "Gram",
+        "break_year": 2017,
+        "break_season": "Rabi       ",
+        "shift_std": 2.0556141136695545,
+        "shift_pct": 38.04063273562931,
+        "explanation": null
+    },
+    {
+        "state": "Jharkhand",
+        "crop": "Maize",
+        "break_year": 2013,
+        "break_season": "Autumn     ",
+        "shift_std": 1.5170639470203096,
+        "shift_pct": 44.05191955855872,
+        "explanation": null
+    },
+    {
+        "state": "Jharkhand",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2017,
+        "break_season": "Rabi       ",
+        "shift_std": 0.947487998816016,
+        "shift_pct": -11.642058700589713,
+        "explanation": null
+    },
+    {
+        "state": "Jharkhand",
+        "crop": "Rice",
+        "break_year": 2015,
+        "break_season": "Winter     ",
+        "shift_std": 1.409380782579874,
+        "shift_pct": 73.73352354451924,
+        "explanation": null
+    },
+    {
+        "state": "Jharkhand",
+        "crop": "Sugarcane",
+        "break_year": 2008,
+        "break_season": "Whole Year ",
+        "shift_std": 1.1559602397837074,
+        "shift_pct": 78.07433967090158,
+        "explanation": null
+    },
+    {
+        "state": "Jharkhand",
+        "crop": "Wheat",
+        "break_year": 2016,
+        "break_season": "Rabi       ",
+        "shift_std": 2.1699725961002416,
+        "shift_pct": 50.276495445424,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Arecanut",
+        "break_year": 2009,
+        "break_season": "Whole Year ",
+        "shift_std": 1.6971281663650215,
+        "shift_pct": 192.72626725600722,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Arhar/Tur",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3566420151160137,
+        "shift_pct": 43.244420575773304,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Bajra",
+        "break_year": 2011,
+        "break_season": "Rabi       ",
+        "shift_std": 1.0241342327206144,
+        "shift_pct": 30.410560080092242,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Bajra",
+        "break_year": 2004,
+        "break_season": "Summer     ",
+        "shift_std": 0.8784209170020189,
+        "shift_pct": 28.446208958579987,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Black pepper",
+        "break_year": 2017,
+        "break_season": "Whole Year ",
+        "shift_std": 1.2881187932954967,
+        "shift_pct": -72.01473349403989,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Cardamom",
+        "break_year": 2008,
+        "break_season": "Whole Year ",
+        "shift_std": 1.6264098736977715,
+        "shift_pct": 53.8426607426833,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Cashewnut",
+        "break_year": 2013,
+        "break_season": "Whole Year ",
+        "shift_std": 1.0388875467490577,
+        "shift_pct": 28.692842337939933,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Castor seed",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.00709075442675,
+        "shift_pct": -21.824528946174073,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Coconut ",
+        "break_year": 2008,
+        "break_season": "Whole Year ",
+        "shift_std": 1.8677499367268426,
+        "shift_pct": 92.09218235881657,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Coriander",
+        "break_year": 2007,
+        "break_season": "Whole Year ",
+        "shift_std": 1.6522153092523069,
+        "shift_pct": 263.46290729656556,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Cotton(lint)",
+        "break_year": 2008,
+        "break_season": "Whole Year ",
+        "shift_std": 0.6956395159192439,
+        "shift_pct": 33.9093788856617,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Dry chillies",
+        "break_year": 2007,
+        "break_season": "Summer     ",
+        "shift_std": 0.9207590503440743,
+        "shift_pct": 54.40938795511775,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Ginger",
+        "break_year": 2012,
+        "break_season": "Whole Year ",
+        "shift_std": 1.1515053522685315,
+        "shift_pct": 82.23558544292405,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Groundnut",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 0.9506316922226234,
+        "shift_pct": 52.4745812974157,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Horse-gram",
+        "break_year": 2017,
+        "break_season": "Kharif     ",
+        "shift_std": 1.386603493828931,
+        "shift_pct": 34.246031255841245,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Maize",
+        "break_year": 2017,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5988275410396557,
+        "shift_pct": 27.491538954099582,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Maize",
+        "break_year": 2003,
+        "break_season": "Summer     ",
+        "shift_std": 1.362460560552473,
+        "shift_pct": 26.943638331997143,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Mesta",
+        "break_year": 2009,
+        "break_season": "Whole Year ",
+        "shift_std": 1.411304982840482,
+        "shift_pct": -42.34375034158367,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2000,
+        "break_season": "Rabi       ",
+        "shift_std": 1.2482918125398557,
+        "shift_pct": -29.099508438533523,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Onion",
+        "break_year": 2016,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4727042819583303,
+        "shift_pct": 56.21448431970249,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Other  Rabi pulses",
+        "break_year": 2009,
+        "break_season": "Rabi       ",
+        "shift_std": 1.520938669339328,
+        "shift_pct": 245.57686459952578,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Other Kharif pulses",
+        "break_year": 2004,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5582353295096019,
+        "shift_pct": 150.68675636943084,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Potato",
+        "break_year": 2000,
+        "break_season": "Whole Year ",
+        "shift_std": 0.8972703325596955,
+        "shift_pct": -24.15049689261543,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Ragi",
+        "break_year": 2003,
+        "break_season": "Summer     ",
+        "shift_std": 0.7292902543377958,
+        "shift_pct": 18.15155851367129,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.2103422911173471,
+        "shift_pct": -28.327741228628668,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Rice",
+        "break_year": 2003,
+        "break_season": "Summer     ",
+        "shift_std": 0.9965860394079635,
+        "shift_pct": 17.001017872003406,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Soyabean",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.0194459369045596,
+        "shift_pct": 28.968539463328497,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Sunflower",
+        "break_year": 2016,
+        "break_season": "Rabi       ",
+        "shift_std": 1.1558554786982183,
+        "shift_pct": 40.67883936627604,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Sunflower",
+        "break_year": 2004,
+        "break_season": "Summer     ",
+        "shift_std": 0.8917205731582932,
+        "shift_pct": 36.961631154683744,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Sweet potato",
+        "break_year": 2010,
+        "break_season": "Whole Year ",
+        "shift_std": 1.7351735943566153,
+        "shift_pct": 107.79849335014444,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Tobacco",
+        "break_year": 2010,
+        "break_season": "Whole Year ",
+        "shift_std": 1.4772487248843802,
+        "shift_pct": 39.18813621640654,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Turmeric",
+        "break_year": 2017,
+        "break_season": "Whole Year ",
+        "shift_std": 1.339505528339707,
+        "shift_pct": 23.935441460463434,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Urad",
+        "break_year": 2006,
+        "break_season": "Rabi       ",
+        "shift_std": 1.003058132370293,
+        "shift_pct": 39.506505306878594,
+        "explanation": null
+    },
+    {
+        "state": "Karnataka",
+        "crop": "Wheat",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.3973155009626912,
+        "shift_pct": 33.43743337416796,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Arecanut",
+        "break_year": 2017,
+        "break_season": "Whole Year ",
+        "shift_std": 1.3473570464766722,
+        "shift_pct": -14.53935671072144,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Black pepper",
+        "break_year": 2012,
+        "break_season": "Whole Year ",
+        "shift_std": 1.7771181830359055,
+        "shift_pct": 57.04516281038777,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Cardamom",
+        "break_year": 2014,
+        "break_season": "Whole Year ",
+        "shift_std": 1.4731154455572155,
+        "shift_pct": 65.20154326235881,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Cashewnut",
+        "break_year": 2012,
+        "break_season": "Whole Year ",
+        "shift_std": 1.8065890111512326,
+        "shift_pct": -36.153307988126926,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Coconut ",
+        "break_year": 2002,
+        "break_season": "Whole Year ",
+        "shift_std": 2.0141407877142603,
+        "shift_pct": 17.811922961056048,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Garlic",
+        "break_year": 2015,
+        "break_season": "Whole Year ",
+        "shift_std": 1.9313034416769355,
+        "shift_pct": -65.19286670812284,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Ginger",
+        "break_year": 2008,
+        "break_season": "Whole Year ",
+        "shift_std": 1.5939087580687192,
+        "shift_pct": 13.626807409546254,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Groundnut",
+        "break_year": 2008,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6413753480686966,
+        "shift_pct": 83.35831958983026,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Jowar",
+        "break_year": 2008,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6293617878290458,
+        "shift_pct": 61.493024978822284,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Ragi",
+        "break_year": 2015,
+        "break_season": "Whole Year ",
+        "shift_std": 2.0306485800516234,
+        "shift_pct": 71.89306570692267,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Rice",
+        "break_year": 2004,
+        "break_season": "Winter     ",
+        "shift_std": 1.1491933395174025,
+        "shift_pct": 14.388347159627429,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Rice",
+        "break_year": 2011,
+        "break_season": "Summer     ",
+        "shift_std": 1.0632289324990687,
+        "shift_pct": 12.704254476666318,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Sesamum",
+        "break_year": 2017,
+        "break_season": "Whole Year ",
+        "shift_std": 2.2846384563735627,
+        "shift_pct": 108.06061576191814,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Sugarcane",
+        "break_year": 2003,
+        "break_season": "Whole Year ",
+        "shift_std": 1.2982854922644165,
+        "shift_pct": -29.600027421590518,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Sweet potato",
+        "break_year": 2008,
+        "break_season": "Whole Year ",
+        "shift_std": 1.5655850568200191,
+        "shift_pct": 12.630776943153696,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Tapioca",
+        "break_year": 2007,
+        "break_season": "Whole Year ",
+        "shift_std": 1.7580006114056617,
+        "shift_pct": 38.22243170908674,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Tobacco",
+        "break_year": 2003,
+        "break_season": "Whole Year ",
+        "shift_std": 1.8499099182530772,
+        "shift_pct": -62.04635274515567,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Turmeric",
+        "break_year": 2013,
+        "break_season": "Whole Year ",
+        "shift_std": 1.6902706151695222,
+        "shift_pct": 23.392695248391483,
+        "explanation": null
+    },
+    {
+        "state": "Kerala",
+        "crop": "Turmeric",
+        "break_year": 2008,
+        "break_season": "Whole Year ",
+        "shift_std": 1.5855325981073616,
+        "shift_pct": 22.98335752289425,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Arhar/Tur",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.1935499521764796,
+        "shift_pct": 36.58043702629637,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Bajra",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6395252741076933,
+        "shift_pct": 56.71300718853537,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Banana",
+        "break_year": 2013,
+        "break_season": "Whole Year ",
+        "shift_std": 1.5058047552794116,
+        "shift_pct": 67.8147142399097,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Barley",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4930377813994182,
+        "shift_pct": 50.1182081167647,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Coriander",
+        "break_year": 2016,
+        "break_season": "Whole Year ",
+        "shift_std": 1.6713176711349287,
+        "shift_pct": 221.44456753828038,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Cotton(lint)",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.0435597612227379,
+        "shift_pct": 65.2251667316106,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Dry chillies",
+        "break_year": 2013,
+        "break_season": "Whole Year ",
+        "shift_std": 1.6561313833962898,
+        "shift_pct": 210.65454168001736,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Garlic",
+        "break_year": 2016,
+        "break_season": "Whole Year ",
+        "shift_std": 2.0491324941220723,
+        "shift_pct": 194.7239436529036,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Ginger",
+        "break_year": 2012,
+        "break_season": "Whole Year ",
+        "shift_std": 1.5870775128156225,
+        "shift_pct": 978.1461150380447,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Gram",
+        "break_year": 2013,
+        "break_season": "Rabi       ",
+        "shift_std": 1.5045216572523838,
+        "shift_pct": 42.15920422579323,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Groundnut",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4885568411769319,
+        "shift_pct": 34.47742005633714,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Horse-gram",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.2126066985118091,
+        "shift_pct": 40.19076347835392,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Jowar",
+        "break_year": 2009,
+        "break_season": "Rabi       ",
+        "shift_std": 1.3309981609052455,
+        "shift_pct": 47.2197892055075,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Khesari",
+        "break_year": 2011,
+        "break_season": "Rabi       ",
+        "shift_std": 1.3599538822150312,
+        "shift_pct": 25.10457233550324,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Linseed",
+        "break_year": 2017,
+        "break_season": "Rabi       ",
+        "shift_std": 1.7324127213672211,
+        "shift_pct": 52.324365980957886,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Linseed",
+        "break_year": 2002,
+        "break_season": "Rabi       ",
+        "shift_std": 1.3904729946866192,
+        "shift_pct": 56.784577087098334,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Maize",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5877852054127037,
+        "shift_pct": 72.17119911079378,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Masoor",
+        "break_year": 2013,
+        "break_season": "Rabi       ",
+        "shift_std": 1.6976515768285245,
+        "shift_pct": 86.24901157851622,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2014,
+        "break_season": "Kharif     ",
+        "shift_std": 1.2231026287273137,
+        "shift_pct": 77.12382448587243,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Niger seed",
+        "break_year": 2014,
+        "break_season": "Kharif     ",
+        "shift_std": 1.419188161935217,
+        "shift_pct": 42.51615960288874,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Onion",
+        "break_year": 2015,
+        "break_season": "Whole Year ",
+        "shift_std": 2.05963951609184,
+        "shift_pct": 61.231638586269646,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Other  Rabi pulses",
+        "break_year": 2016,
+        "break_season": "Rabi       ",
+        "shift_std": 1.2465912452778292,
+        "shift_pct": 69.70294710096573,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Peas & beans (Pulses)",
+        "break_year": 2014,
+        "break_season": "Rabi       ",
+        "shift_std": 1.6997198599204393,
+        "shift_pct": 93.97532280066929,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Potato",
+        "break_year": 2016,
+        "break_season": "Whole Year ",
+        "shift_std": 2.109040244812776,
+        "shift_pct": 66.69673555722403,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.3439782103195363,
+        "shift_pct": 38.292114812836104,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Rice",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5323199771507556,
+        "shift_pct": 72.82122818701433,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Safflower",
+        "break_year": 2010,
+        "break_season": "Rabi       ",
+        "shift_std": 1.4215609656234485,
+        "shift_pct": 83.40548485510242,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Sesamum",
+        "break_year": 2007,
+        "break_season": "Whole Year ",
+        "shift_std": 1.5791602677133418,
+        "shift_pct": 49.6509789275948,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Small millets",
+        "break_year": 2016,
+        "break_season": "Kharif     ",
+        "shift_std": 2.0356061267703756,
+        "shift_pct": 151.7130242759459,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Sugarcane",
+        "break_year": 2003,
+        "break_season": "Whole Year ",
+        "shift_std": 1.3700772363278149,
+        "shift_pct": 33.558400953166284,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Sugarcane",
+        "break_year": 2013,
+        "break_season": "Whole Year ",
+        "shift_std": 1.3133538357878474,
+        "shift_pct": 27.804815531938313,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Sunflower",
+        "break_year": 2012,
+        "break_season": "Whole Year ",
+        "shift_std": 1.8828989849927598,
+        "shift_pct": 132.16100331315204,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Sweet potato",
+        "break_year": 2016,
+        "break_season": "Whole Year ",
+        "shift_std": 2.1953376863498724,
+        "shift_pct": 168.62953876767997,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Turmeric",
+        "break_year": 2016,
+        "break_season": "Whole Year ",
+        "shift_std": 2.1298873641700853,
+        "shift_pct": 800.2879716732454,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Urad",
+        "break_year": 2015,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5651064725006296,
+        "shift_pct": 115.20290973327722,
+        "explanation": null
+    },
+    {
+        "state": "Madhya Pradesh",
+        "crop": "Wheat",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 1.9260318205206022,
+        "shift_pct": 76.16560042951596,
+        "explanation": null
+    },
+    {
+        "state": "Maharashtra",
+        "crop": "Gram",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.534055113250742,
+        "shift_pct": 40.9577673883716,
+        "explanation": null
+    },
+    {
+        "state": "Maharashtra",
+        "crop": "Jowar",
+        "break_year": 2014,
+        "break_season": "Rabi       ",
+        "shift_std": 0.8659357196631634,
+        "shift_pct": -24.25176884184713,
+        "explanation": null
+    },
+    {
+        "state": "Maharashtra",
+        "crop": "Maize",
+        "break_year": 1998,
+        "break_season": "Rabi       ",
+        "shift_std": 1.659915307893688,
+        "shift_pct": -99.14093031904397,
+        "explanation": null
+    },
+    {
+        "state": "Maharashtra",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.048663617060967,
+        "shift_pct": -25.27987387140456,
+        "explanation": null
+    },
+    {
+        "state": "Maharashtra",
+        "crop": "Niger seed",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.631134312496293,
+        "shift_pct": -48.02769217256357,
+        "explanation": null
+    },
+    {
+        "state": "Maharashtra",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2003,
+        "break_season": "Rabi       ",
+        "shift_std": 1.3661296517889987,
+        "shift_pct": 42.101039638317005,
+        "explanation": null
+    },
+    {
+        "state": "Maharashtra",
+        "crop": "Rice",
+        "break_year": 1999,
+        "break_season": "Summer     ",
+        "shift_std": 1.062615498631431,
+        "shift_pct": -40.14124831952529,
+        "explanation": null
+    },
+    {
+        "state": "Maharashtra",
+        "crop": "Small millets",
+        "break_year": 2011,
+        "break_season": "Rabi       ",
+        "shift_std": 0.7428717827143277,
+        "shift_pct": -24.017467989409234,
+        "explanation": null
+    },
+    {
+        "state": "Maharashtra",
+        "crop": "Urad",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.0773750627497158,
+        "shift_pct": -16.899877923512616,
+        "explanation": null
+    },
+    {
+        "state": "Maharashtra",
+        "crop": "Wheat",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.1806671257445538,
+        "shift_pct": 21.515213469465724,
+        "explanation": null
+    },
+    {
+        "state": "Manipur",
+        "crop": "Dry chillies",
+        "break_year": 2009,
+        "break_season": "Whole Year ",
+        "shift_std": 1.8915255233258286,
+        "shift_pct": 623.0035141904727,
+        "explanation": null
+    },
+    {
+        "state": "Manipur",
+        "crop": "Ginger",
+        "break_year": 2010,
+        "break_season": "Kharif     ",
+        "shift_std": 1.740653881914381,
+        "shift_pct": 289.61649568674324,
+        "explanation": null
+    },
+    {
+        "state": "Manipur",
+        "crop": "Gram",
+        "break_year": 2013,
+        "break_season": "Rabi       ",
+        "shift_std": 1.6917907376019188,
+        "shift_pct": 10.084783466427979,
+        "explanation": null
+    },
+    {
+        "state": "Manipur",
+        "crop": "Groundnut",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.45380586868404,
+        "shift_pct": 23.19397447911121,
+        "explanation": null
+    },
+    {
+        "state": "Manipur",
+        "crop": "Maize",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 0.9983050278729543,
+        "shift_pct": -18.439303996745338,
+        "explanation": null
+    },
+    {
+        "state": "Manipur",
+        "crop": "Masoor",
+        "break_year": 2013,
+        "break_season": "Rabi       ",
+        "shift_std": 1.6904103038020963,
+        "shift_pct": 11.307580538766334,
+        "explanation": null
+    },
+    {
+        "state": "Manipur",
+        "crop": "Other  Rabi pulses",
+        "break_year": 2013,
+        "break_season": "Rabi       ",
+        "shift_std": 1.6869428464793998,
+        "shift_pct": 8.517446840467157,
+        "explanation": null
+    },
+    {
+        "state": "Manipur",
+        "crop": "Other Kharif pulses",
+        "break_year": 2009,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6594443441376505,
+        "shift_pct": 77.27992527133596,
+        "explanation": null
+    },
+    {
+        "state": "Manipur",
+        "crop": "Peas & beans (Pulses)",
+        "break_year": 2009,
+        "break_season": "Rabi       ",
+        "shift_std": 1.9059979675822125,
+        "shift_pct": 68.79580313273352,
+        "explanation": null
+    },
+    {
+        "state": "Manipur",
+        "crop": "Potato",
+        "break_year": 2007,
+        "break_season": "Whole Year ",
+        "shift_std": 1.8285266992922584,
+        "shift_pct": 55.68685133472569,
+        "explanation": null
+    },
+    {
+        "state": "Manipur",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.73630324910898,
+        "shift_pct": 66.32451423677429,
+        "explanation": null
+    },
+    {
+        "state": "Manipur",
+        "crop": "Soyabean",
+        "break_year": 2008,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6243988589626062,
+        "shift_pct": -29.060977847220403,
+        "explanation": null
+    },
+    {
+        "state": "Manipur",
+        "crop": "Sugarcane",
+        "break_year": 2009,
+        "break_season": "Whole Year ",
+        "shift_std": 1.6444649901047688,
+        "shift_pct": 72.56924777176086,
+        "explanation": null
+    },
+    {
+        "state": "Manipur",
+        "crop": "Turmeric",
+        "break_year": 2007,
+        "break_season": "Whole Year ",
+        "shift_std": 1.832006117296534,
+        "shift_pct": 1380.3829244996452,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Arecanut",
+        "break_year": 2014,
+        "break_season": "Whole Year ",
+        "shift_std": 1.5583601935106866,
+        "shift_pct": 8.774066703022921,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Arhar/Tur",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.994911450968503,
+        "shift_pct": 35.32917864619917,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Banana",
+        "break_year": 2003,
+        "break_season": "Whole Year ",
+        "shift_std": 1.99263026281598,
+        "shift_pct": -7.5034839691478545,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Black pepper",
+        "break_year": 2012,
+        "break_season": "Whole Year ",
+        "shift_std": 1.4873355897270035,
+        "shift_pct": 27.708314051256117,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Castor seed",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.8689424824244283,
+        "shift_pct": 62.824047498774725,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Cotton(lint)",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6175150398238802,
+        "shift_pct": 24.424498773243112,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Dry chillies",
+        "break_year": 2008,
+        "break_season": "Whole Year ",
+        "shift_std": 1.7869969271637276,
+        "shift_pct": 57.233364748350766,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Ginger",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 2.0383738776116003,
+        "shift_pct": 47.006884626405785,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Gram",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 2.087093504064564,
+        "shift_pct": 75.73256550193305,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Jute",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.9092234511819401,
+        "shift_pct": 42.85813159305389,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Linseed",
+        "break_year": 2011,
+        "break_season": "Rabi       ",
+        "shift_std": 1.6863023000606874,
+        "shift_pct": 21.84072437633162,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Maize",
+        "break_year": 2012,
+        "break_season": "Whole Year ",
+        "shift_std": 2.0835434689570502,
+        "shift_pct": 47.94306497958385,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Masoor",
+        "break_year": 2015,
+        "break_season": "Rabi       ",
+        "shift_std": 1.1928077727309168,
+        "shift_pct": 32.35460159728655,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Mesta",
+        "break_year": 2000,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5520913928000097,
+        "shift_pct": 71.58751820570056,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Mesta",
+        "break_year": 2010,
+        "break_season": "Kharif     ",
+        "shift_std": 1.24539661069014,
+        "shift_pct": 42.77335420678182,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Other  Rabi pulses",
+        "break_year": 2009,
+        "break_season": "Rabi       ",
+        "shift_std": 1.2786367946118589,
+        "shift_pct": -15.917503788909324,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Peas & beans (Pulses)",
+        "break_year": 2014,
+        "break_season": "Rabi       ",
+        "shift_std": 1.3717529932456671,
+        "shift_pct": 22.323833681021192,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 2.06096573332755,
+        "shift_pct": 43.52973690195255,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Rice",
+        "break_year": 2012,
+        "break_season": "Winter     ",
+        "shift_std": 1.7181013249056263,
+        "shift_pct": 35.24528067604892,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Sesamum",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 2.0768237212091005,
+        "shift_pct": 73.40638316992948,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Small millets",
+        "break_year": 2013,
+        "break_season": "Rabi       ",
+        "shift_std": 1.7908210418451243,
+        "shift_pct": 17.0146667789558,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Small millets",
+        "break_year": 2003,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6682946673043424,
+        "shift_pct": 17.01329253398728,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Soyabean",
+        "break_year": 2010,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6923091470888534,
+        "shift_pct": 107.23869450989001,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Sugarcane",
+        "break_year": 2012,
+        "break_season": "Whole Year ",
+        "shift_std": 2.0260273461061105,
+        "shift_pct": 14.677433037849704,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Sweet potato",
+        "break_year": 2006,
+        "break_season": "Rabi       ",
+        "shift_std": 1.5862425104985722,
+        "shift_pct": 7.816755475075336,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Tapioca",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.8838295528456,
+        "shift_pct": 15.06622175547639,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Tobacco",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 2.004722090708822,
+        "shift_pct": 63.66314060832673,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Turmeric",
+        "break_year": 2014,
+        "break_season": "Whole Year ",
+        "shift_std": 1.3804619343207922,
+        "shift_pct": 9.743330475973728,
+        "explanation": null
+    },
+    {
+        "state": "Meghalaya",
+        "crop": "Wheat",
+        "break_year": 2013,
+        "break_season": "Rabi       ",
+        "shift_std": 1.6689334477153048,
+        "shift_pct": 19.19576704769012,
+        "explanation": null
+    },
+    {
+        "state": "Mizoram",
+        "crop": "Cotton(lint)",
+        "break_year": 2008,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3108854982144171,
+        "shift_pct": -71.47153122933666,
+        "explanation": null
+    },
+    {
+        "state": "Mizoram",
+        "crop": "Cowpea(Lobia)",
+        "break_year": 2017,
+        "break_season": "Rabi       ",
+        "shift_std": 1.7716015468703117,
+        "shift_pct": 55.51737932435743,
+        "explanation": null
+    },
+    {
+        "state": "Mizoram",
+        "crop": "Maize",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 0.7642515587790805,
+        "shift_pct": -17.375948529447555,
+        "explanation": null
+    },
+    {
+        "state": "Mizoram",
+        "crop": "Sugarcane",
+        "break_year": 2013,
+        "break_season": "Whole Year ",
+        "shift_std": 1.6490605415551987,
+        "shift_pct": 191.8317795961372,
+        "explanation": null
+    },
+    {
+        "state": "Nagaland",
+        "crop": "Barley",
+        "break_year": 2009,
+        "break_season": "Rabi       ",
+        "shift_std": 1.6341107682703873,
+        "shift_pct": -32.656379460127596,
+        "explanation": null
+    },
+    {
+        "state": "Nagaland",
+        "crop": "Cotton(lint)",
+        "break_year": 2004,
+        "break_season": "Kharif     ",
+        "shift_std": 1.231714641775877,
+        "shift_pct": -71.69767199856975,
+        "explanation": null
+    },
+    {
+        "state": "Nagaland",
+        "crop": "Groundnut",
+        "break_year": 2008,
+        "break_season": "Kharif     ",
+        "shift_std": 1.1175838526371773,
+        "shift_pct": -15.100865412753642,
+        "explanation": null
+    },
+    {
+        "state": "Nagaland",
+        "crop": "Maize",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 1.7928576364517832,
+        "shift_pct": 33.35038991624535,
+        "explanation": null
+    },
+    {
+        "state": "Nagaland",
+        "crop": "Maize",
+        "break_year": 2010,
+        "break_season": "Kharif     ",
+        "shift_std": 1.097312747640856,
+        "shift_pct": 17.156459184283758,
+        "explanation": null
+    },
+    {
+        "state": "Nagaland",
+        "crop": "Niger seed",
+        "break_year": 2014,
+        "break_season": "Kharif     ",
+        "shift_std": 1.0155194061195874,
+        "shift_pct": 18.97228578777457,
+        "explanation": null
+    },
+    {
+        "state": "Nagaland",
+        "crop": "Peas & beans (Pulses)",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 0.771116582574932,
+        "shift_pct": 17.37320028497303,
+        "explanation": null
+    },
+    {
+        "state": "Nagaland",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2009,
+        "break_season": "Rabi       ",
+        "shift_std": 1.0707161508344265,
+        "shift_pct": 16.633812285826806,
+        "explanation": null
+    },
+    {
+        "state": "Nagaland",
+        "crop": "Rice",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6764678301508822,
+        "shift_pct": 46.59420920230461,
+        "explanation": null
+    },
+    {
+        "state": "Nagaland",
+        "crop": "Rice",
+        "break_year": 2003,
+        "break_season": "Rabi       ",
+        "shift_std": 1.4773334770219628,
+        "shift_pct": 47.12025747216639,
+        "explanation": null
+    },
+    {
+        "state": "Nagaland",
+        "crop": "Sesamum",
+        "break_year": 2008,
+        "break_season": "Kharif     ",
+        "shift_std": 0.9859324969156652,
+        "shift_pct": -18.198240643503574,
+        "explanation": null
+    },
+    {
+        "state": "Nagaland",
+        "crop": "Soyabean",
+        "break_year": 2009,
+        "break_season": "Kharif     ",
+        "shift_std": 0.9335780459747928,
+        "shift_pct": -9.12238698171342,
+        "explanation": null
+    },
+    {
+        "state": "Nagaland",
+        "crop": "Sunflower",
+        "break_year": 2004,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6810873710468666,
+        "shift_pct": -42.440515640182,
+        "explanation": null
+    },
+    {
+        "state": "Nagaland",
+        "crop": "Wheat",
+        "break_year": 2004,
+        "break_season": "Rabi       ",
+        "shift_std": 1.4571036704197795,
+        "shift_pct": -25.603485541891253,
+        "explanation": null
+    },
+    {
+        "state": "Odisha",
+        "crop": "Groundnut",
+        "break_year": 2018,
+        "break_season": "Summer     ",
+        "shift_std": 2.004995340140587,
+        "shift_pct": 46.26649055747482,
+        "explanation": null
+    },
+    {
+        "state": "Odisha",
+        "crop": "Groundnut",
+        "break_year": 2013,
+        "break_season": "Summer     ",
+        "shift_std": 1.1946600247347818,
+        "shift_pct": 29.1206987929204,
+        "explanation": null
+    },
+    {
+        "state": "Odisha",
+        "crop": "Horse-gram",
+        "break_year": 2017,
+        "break_season": "Summer     ",
+        "shift_std": 1.7395975623034658,
+        "shift_pct": 52.15951190790433,
+        "explanation": null
+    },
+    {
+        "state": "Odisha",
+        "crop": "Horse-gram",
+        "break_year": 2012,
+        "break_season": "Summer     ",
+        "shift_std": 1.248789460370443,
+        "shift_pct": 40.252471451539826,
+        "explanation": null
+    },
+    {
+        "state": "Odisha",
+        "crop": "Jute",
+        "break_year": 2012,
+        "break_season": "Autumn     ",
+        "shift_std": 1.7781685725285108,
+        "shift_pct": -76.2612932455582,
+        "explanation": null
+    },
+    {
+        "state": "Odisha",
+        "crop": "Maize",
+        "break_year": 2004,
+        "break_season": "Winter     ",
+        "shift_std": 1.5029661953373215,
+        "shift_pct": 74.71484020625064,
+        "explanation": null
+    },
+    {
+        "state": "Odisha",
+        "crop": "Maize",
+        "break_year": 2011,
+        "break_season": "Summer     ",
+        "shift_std": 1.4930574523267592,
+        "shift_pct": 59.51749823935292,
+        "explanation": null
+    },
+    {
+        "state": "Odisha",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2016,
+        "break_season": "Autumn     ",
+        "shift_std": 1.773524875589394,
+        "shift_pct": 60.532118931886814,
+        "explanation": null
+    },
+    {
+        "state": "Odisha",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2011,
+        "break_season": "Autumn     ",
+        "shift_std": 1.2078888184205065,
+        "shift_pct": 44.22708724865707,
+        "explanation": null
+    },
+    {
+        "state": "Odisha",
+        "crop": "Niger seed",
+        "break_year": 2004,
+        "break_season": "Rabi       ",
+        "shift_std": 1.2674435137478155,
+        "shift_pct": -25.83924231600841,
+        "explanation": null
+    },
+    {
+        "state": "Odisha",
+        "crop": "Potato",
+        "break_year": 2012,
+        "break_season": "Winter     ",
+        "shift_std": 1.6843814950105431,
+        "shift_pct": 23.54093986904104,
+        "explanation": null
+    },
+    {
+        "state": "Odisha",
+        "crop": "Ragi",
+        "break_year": 2008,
+        "break_season": "Summer     ",
+        "shift_std": 0.8857353700124044,
+        "shift_pct": 18.074751939678954,
+        "explanation": null
+    },
+    {
+        "state": "Odisha",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2013,
+        "break_season": "Winter     ",
+        "shift_std": 1.3544429123324773,
+        "shift_pct": 47.968505889368416,
+        "explanation": null
+    },
+    {
+        "state": "Odisha",
+        "crop": "Rice",
+        "break_year": 2013,
+        "break_season": "Summer     ",
+        "shift_std": 1.014033871036236,
+        "shift_pct": 43.73339330663538,
+        "explanation": null
+    },
+    {
+        "state": "Odisha",
+        "crop": "Sesamum",
+        "break_year": 2013,
+        "break_season": "Summer     ",
+        "shift_std": 0.9428720815283823,
+        "shift_pct": 26.513885826848128,
+        "explanation": null
+    },
+    {
+        "state": "Odisha",
+        "crop": "Urad",
+        "break_year": 2013,
+        "break_season": "Summer     ",
+        "shift_std": 1.4728217059844357,
+        "shift_pct": 39.68716142535755,
+        "explanation": null
+    },
+    {
+        "state": "Odisha",
+        "crop": "Wheat",
+        "break_year": 2017,
+        "break_season": "Summer     ",
+        "shift_std": 2.027402766938122,
+        "shift_pct": 47.80212268516664,
+        "explanation": null
+    },
+    {
+        "state": "Puducherry",
+        "crop": "Bajra",
+        "break_year": 2017,
+        "break_season": "Summer     ",
+        "shift_std": 0.9460168541518625,
+        "shift_pct": 20.25590141573101,
+        "explanation": null
+    },
+    {
+        "state": "Puducherry",
+        "crop": "Black pepper",
+        "break_year": 2017,
+        "break_season": "Kharif     ",
+        "shift_std": 1.9152246621440754,
+        "shift_pct": 116.06118380409394,
+        "explanation": null
+    },
+    {
+        "state": "Puducherry",
+        "crop": "Cashewnut",
+        "break_year": 2004,
+        "break_season": "Whole Year ",
+        "shift_std": 1.426445344377538,
+        "shift_pct": -58.85326127073619,
+        "explanation": null
+    },
+    {
+        "state": "Puducherry",
+        "crop": "Cotton(lint)",
+        "break_year": 2003,
+        "break_season": "Kharif     ",
+        "shift_std": 1.759313467282267,
+        "shift_pct": -68.26751106977903,
+        "explanation": null
+    },
+    {
+        "state": "Puducherry",
+        "crop": "Dry chillies",
+        "break_year": 2014,
+        "break_season": "Kharif     ",
+        "shift_std": 1.78594392967486,
+        "shift_pct": 364.3501006236218,
+        "explanation": null
+    },
+    {
+        "state": "Puducherry",
+        "crop": "Groundnut",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6306019306822046,
+        "shift_pct": 65.47996849231187,
+        "explanation": null
+    },
+    {
+        "state": "Puducherry",
+        "crop": "Jowar",
+        "break_year": 2017,
+        "break_season": "Summer     ",
+        "shift_std": 1.7683496091698807,
+        "shift_pct": 63.96604901254215,
+        "explanation": null
+    },
+    {
+        "state": "Puducherry",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2008,
+        "break_season": "Summer     ",
+        "shift_std": 0.8779162016752399,
+        "shift_pct": 38.619717471608844,
+        "explanation": null
+    },
+    {
+        "state": "Puducherry",
+        "crop": "Onion",
+        "break_year": 2003,
+        "break_season": "Whole Year ",
+        "shift_std": 1.3297374847997792,
+        "shift_pct": -47.189074087366286,
+        "explanation": null
+    },
+    {
+        "state": "Puducherry",
+        "crop": "Onion",
+        "break_year": 2016,
+        "break_season": "Summer     ",
+        "shift_std": 1.1226230215654351,
+        "shift_pct": -55.42576582297075,
+        "explanation": null
+    },
+    {
+        "state": "Puducherry",
+        "crop": "Rice",
+        "break_year": 2018,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3385213017458326,
+        "shift_pct": 22.928144194657875,
+        "explanation": null
+    },
+    {
+        "state": "Puducherry",
+        "crop": "Rice",
+        "break_year": 2006,
+        "break_season": "Rabi       ",
+        "shift_std": 0.8505638436036517,
+        "shift_pct": 15.87294795889062,
+        "explanation": null
+    },
+    {
+        "state": "Puducherry",
+        "crop": "Sesamum",
+        "break_year": 2015,
+        "break_season": "Summer     ",
+        "shift_std": 1.052267336127861,
+        "shift_pct": 30.869767337021013,
+        "explanation": null
+    },
+    {
+        "state": "Puducherry",
+        "crop": "Small millets",
+        "break_year": 2009,
+        "break_season": "Kharif     ",
+        "shift_std": 1.2504110967738993,
+        "shift_pct": 44.41930568153122,
+        "explanation": null
+    },
+    {
+        "state": "Puducherry",
+        "crop": "Sugarcane",
+        "break_year": 2008,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4570766869009,
+        "shift_pct": 51.035668674034405,
+        "explanation": null
+    },
+    {
+        "state": "Puducherry",
+        "crop": "Sweet potato",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 1.3349045154417067,
+        "shift_pct": 126.27622348923235,
+        "explanation": null
+    },
+    {
+        "state": "Puducherry",
+        "crop": "Turmeric",
+        "break_year": 2015,
+        "break_season": "Kharif     ",
+        "shift_std": 1.0550618453507004,
+        "shift_pct": 226.08695507617034,
+        "explanation": null
+    },
+    {
+        "state": "Puducherry",
+        "crop": "Urad",
+        "break_year": 2009,
+        "break_season": "Rabi       ",
+        "shift_std": 0.9739259257180729,
+        "shift_pct": 35.197461791574455,
+        "explanation": null
+    },
+    {
+        "state": "Punjab",
+        "crop": "Bajra",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.620654099393562,
+        "shift_pct": -28.020077796921484,
+        "explanation": null
+    },
+    {
+        "state": "Punjab",
+        "crop": "Barley",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.635708387907915,
+        "shift_pct": 11.800145261717711,
+        "explanation": null
+    },
+    {
+        "state": "Punjab",
+        "crop": "Cotton(lint)",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 1.7144589404384623,
+        "shift_pct": 119.18613858728429,
+        "explanation": null
+    },
+    {
+        "state": "Punjab",
+        "crop": "Gram",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.735112144258359,
+        "shift_pct": 33.051597669147355,
+        "explanation": null
+    },
+    {
+        "state": "Punjab",
+        "crop": "Groundnut",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.9887667771552613,
+        "shift_pct": 90.9456718136442,
+        "explanation": null
+    },
+    {
+        "state": "Punjab",
+        "crop": "Guar seed",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5466467969185098,
+        "shift_pct": 23.00332018564252,
+        "explanation": null
+    },
+    {
+        "state": "Punjab",
+        "crop": "Maize",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.7109282864411293,
+        "shift_pct": 37.964906427198855,
+        "explanation": null
+    },
+    {
+        "state": "Punjab",
+        "crop": "Masoor",
+        "break_year": 2002,
+        "break_season": "Rabi       ",
+        "shift_std": 0.9359004126152056,
+        "shift_pct": -12.315657693790701,
+        "explanation": null
+    },
+    {
+        "state": "Punjab",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 2.147603504637627,
+        "shift_pct": 38.62499820644325,
+        "explanation": null
+    },
+    {
+        "state": "Punjab",
+        "crop": "Peas & beans (Pulses)",
+        "break_year": 2009,
+        "break_season": "Rabi       ",
+        "shift_std": 1.569889479375106,
+        "shift_pct": 35.57994830592949,
+        "explanation": null
+    },
+    {
+        "state": "Punjab",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2008,
+        "break_season": "Rabi       ",
+        "shift_std": 1.526042190749128,
+        "shift_pct": 22.36844670207687,
+        "explanation": null
+    },
+    {
+        "state": "Punjab",
+        "crop": "Rice",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 1.8518776589970871,
+        "shift_pct": 14.317842157908464,
+        "explanation": null
+    },
+    {
+        "state": "Punjab",
+        "crop": "Rice",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5168299759816737,
+        "shift_pct": 11.21416961265745,
+        "explanation": null
+    },
+    {
+        "state": "Punjab",
+        "crop": "Sugarcane",
+        "break_year": 2011,
+        "break_season": "Whole Year ",
+        "shift_std": 1.330614073009062,
+        "shift_pct": 40.199329815022175,
+        "explanation": null
+    },
+    {
+        "state": "Punjab",
+        "crop": "Urad",
+        "break_year": 2014,
+        "break_season": "Kharif     ",
+        "shift_std": 1.272301687145698,
+        "shift_pct": 29.483176828522588,
+        "explanation": null
+    },
+    {
+        "state": "Punjab",
+        "crop": "Wheat",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.3257167891543251,
+        "shift_pct": 10.985535054380922,
+        "explanation": null
+    },
+    {
+        "state": "Sikkim",
+        "crop": "Barley",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.284886682921637,
+        "shift_pct": -13.81735603281235,
+        "explanation": null
+    },
+    {
+        "state": "Sikkim",
+        "crop": "Maize",
+        "break_year": 2004,
+        "break_season": "Kharif     ",
+        "shift_std": 0.9127961275758917,
+        "shift_pct": 86.18456162910701,
+        "explanation": null
+    },
+    {
+        "state": "Sikkim",
+        "crop": "Other Cereals",
+        "break_year": 2008,
+        "break_season": "Rabi       ",
+        "shift_std": 1.900616557012016,
+        "shift_pct": 21.06846540709408,
+        "explanation": null
+    },
+    {
+        "state": "Sikkim",
+        "crop": "Rice",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 0.7087338014276504,
+        "shift_pct": 57.85019835427102,
+        "explanation": null
+    },
+    {
+        "state": "Sikkim",
+        "crop": "Wheat",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.372216805586314,
+        "shift_pct": -24.871226568954707,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Arecanut",
+        "break_year": 2007,
+        "break_season": "Whole Year ",
+        "shift_std": 1.4254598740683773,
+        "shift_pct": 105.86999453113492,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Arhar/Tur",
+        "break_year": 2013,
+        "break_season": "Whole Year ",
+        "shift_std": 1.6934788049437028,
+        "shift_pct": 54.084946054937745,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Bajra",
+        "break_year": 2008,
+        "break_season": "Whole Year ",
+        "shift_std": 1.4421199743914772,
+        "shift_pct": 67.23520893274983,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Banana",
+        "break_year": 2004,
+        "break_season": "Whole Year ",
+        "shift_std": 1.278487732857216,
+        "shift_pct": 23.140185956840586,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Coriander",
+        "break_year": 2009,
+        "break_season": "Whole Year ",
+        "shift_std": 1.0935600899814315,
+        "shift_pct": 56.46166800821544,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Cotton(lint)",
+        "break_year": 2008,
+        "break_season": "Whole Year ",
+        "shift_std": 0.6136469261855247,
+        "shift_pct": 27.603864679169344,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Garlic",
+        "break_year": 2009,
+        "break_season": "Whole Year ",
+        "shift_std": 1.5627981647958036,
+        "shift_pct": -23.01498372320137,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Ginger",
+        "break_year": 2009,
+        "break_season": "Whole Year ",
+        "shift_std": 1.0811507776019469,
+        "shift_pct": -33.86603525101029,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Gram",
+        "break_year": 2014,
+        "break_season": "Rabi       ",
+        "shift_std": 1.242724508679433,
+        "shift_pct": 31.41261191081198,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Groundnut",
+        "break_year": 2008,
+        "break_season": "Whole Year ",
+        "shift_std": 1.441100040950844,
+        "shift_pct": 53.178880001086384,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Horse-gram",
+        "break_year": 2013,
+        "break_season": "Rabi       ",
+        "shift_std": 1.343380031169536,
+        "shift_pct": 52.185801755555,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Jowar",
+        "break_year": 2013,
+        "break_season": "Rabi       ",
+        "shift_std": 0.8866871816832498,
+        "shift_pct": 33.562367619210896,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Maize",
+        "break_year": 2009,
+        "break_season": "Whole Year ",
+        "shift_std": 1.5400712459995087,
+        "shift_pct": 162.17331078155956,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.0278726459307261,
+        "shift_pct": 34.277831588047405,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Other Kharif pulses",
+        "break_year": 2015,
+        "break_season": "Kharif     ",
+        "shift_std": 1.939784763114807,
+        "shift_pct": 181.10118654783238,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Potato",
+        "break_year": 2009,
+        "break_season": "Whole Year ",
+        "shift_std": 1.1799883379539473,
+        "shift_pct": 19.904104337182172,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Ragi",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4381081487171474,
+        "shift_pct": 55.96592406348534,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2009,
+        "break_season": "Whole Year ",
+        "shift_std": 1.1959728821825593,
+        "shift_pct": -33.198118736087615,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Rice",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3487759548103315,
+        "shift_pct": 20.401099202401266,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Sesamum",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 0.8767903338836928,
+        "shift_pct": 16.806526611812576,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Sugarcane",
+        "break_year": 2013,
+        "break_season": "Whole Year ",
+        "shift_std": 0.9681626424533901,
+        "shift_pct": -10.059229473097515,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Sweet potato",
+        "break_year": 2009,
+        "break_season": "Whole Year ",
+        "shift_std": 0.9984505307887566,
+        "shift_pct": 30.32268795852115,
+        "explanation": null
+    },
+    {
+        "state": "Tamil Nadu",
+        "crop": "Urad",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4777679961478083,
+        "shift_pct": 52.44383868926285,
+        "explanation": null
+    },
+    {
+        "state": "Tripura",
+        "crop": "Arhar/Tur",
+        "break_year": 2008,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3589419561984721,
+        "shift_pct": 5.776108644118608,
+        "explanation": null
+    },
+    {
+        "state": "Tripura",
+        "crop": "Groundnut",
+        "break_year": 2015,
+        "break_season": "Rabi       ",
+        "shift_std": 1.4983473133687264,
+        "shift_pct": 21.443942414994872,
+        "explanation": null
+    },
+    {
+        "state": "Tripura",
+        "crop": "Jute",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4191760568295249,
+        "shift_pct": 7.236377230421789,
+        "explanation": null
+    },
+    {
+        "state": "Tripura",
+        "crop": "Maize",
+        "break_year": 2016,
+        "break_season": "Rabi       ",
+        "shift_std": 1.5660623099590496,
+        "shift_pct": 51.391548473354774,
+        "explanation": null
+    },
+    {
+        "state": "Tripura",
+        "crop": "Maize",
+        "break_year": 2008,
+        "break_season": "Kharif     ",
+        "shift_std": 1.369999094914273,
+        "shift_pct": 52.88062912829973,
+        "explanation": null
+    },
+    {
+        "state": "Tripura",
+        "crop": "Masoor",
+        "break_year": 2008,
+        "break_season": "Rabi       ",
+        "shift_std": 1.4848419451455677,
+        "shift_pct": 25.09105433990002,
+        "explanation": null
+    },
+    {
+        "state": "Tripura",
+        "crop": "Mesta",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4940108937405794,
+        "shift_pct": 9.023404919934281,
+        "explanation": null
+    },
+    {
+        "state": "Tripura",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2018,
+        "break_season": "Kharif     ",
+        "shift_std": 1.1653071559029353,
+        "shift_pct": 14.216549045483267,
+        "explanation": null
+    },
+    {
+        "state": "Tripura",
+        "crop": "Other  Rabi pulses",
+        "break_year": 2008,
+        "break_season": "Rabi       ",
+        "shift_std": 1.688743298972656,
+        "shift_pct": 20.062581397195668,
+        "explanation": null
+    },
+    {
+        "state": "Tripura",
+        "crop": "Other Kharif pulses",
+        "break_year": 2017,
+        "break_season": "Kharif     ",
+        "shift_std": 1.7800792025273835,
+        "shift_pct": 34.608609390423304,
+        "explanation": null
+    },
+    {
+        "state": "Tripura",
+        "crop": "Peas & beans (Pulses)",
+        "break_year": 2008,
+        "break_season": "Rabi       ",
+        "shift_std": 1.8133288583102833,
+        "shift_pct": 24.41911543201535,
+        "explanation": null
+    },
+    {
+        "state": "Tripura",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2013,
+        "break_season": "Rabi       ",
+        "shift_std": 1.6343419458522936,
+        "shift_pct": 7.639456795164963,
+        "explanation": null
+    },
+    {
+        "state": "Tripura",
+        "crop": "Sesamum",
+        "break_year": 2008,
+        "break_season": "Kharif     ",
+        "shift_std": 1.8924148169312263,
+        "shift_pct": 25.176553138914787,
+        "explanation": null
+    },
+    {
+        "state": "Tripura",
+        "crop": "Sugarcane",
+        "break_year": 2008,
+        "break_season": "Whole Year ",
+        "shift_std": 1.2275575622041297,
+        "shift_pct": 7.574945782354901,
+        "explanation": null
+    },
+    {
+        "state": "Tripura",
+        "crop": "Urad",
+        "break_year": 2005,
+        "break_season": "Rabi       ",
+        "shift_std": 1.3433864331355772,
+        "shift_pct": 17.655025174666157,
+        "explanation": null
+    },
+    {
+        "state": "Tripura",
+        "crop": "Urad",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 0.9701127751008262,
+        "shift_pct": 11.610525619050824,
+        "explanation": null
+    },
+    {
+        "state": "Tripura",
+        "crop": "Wheat",
+        "break_year": 2008,
+        "break_season": "Rabi       ",
+        "shift_std": 0.9208539789793503,
+        "shift_pct": 6.8071747507356655,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Arhar/Tur",
+        "break_year": 2003,
+        "break_season": "Kharif     ",
+        "shift_std": 0.9789221689644112,
+        "shift_pct": -12.23859242907631,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Bajra",
+        "break_year": 2017,
+        "break_season": "Kharif     ",
+        "shift_std": 2.048121785182268,
+        "shift_pct": 27.213900418006382,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Bajra",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4660385719304108,
+        "shift_pct": 21.050074318518234,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Banana",
+        "break_year": 2011,
+        "break_season": "Summer     ",
+        "shift_std": 1.647940941073161,
+        "shift_pct": 19.802661010975413,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Barley",
+        "break_year": 2017,
+        "break_season": "Rabi       ",
+        "shift_std": 2.1040712516654874,
+        "shift_pct": 39.59112637823747,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Barley",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.1990807599229087,
+        "shift_pct": 24.415205319756513,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Coriander",
+        "break_year": 2016,
+        "break_season": "Rabi       ",
+        "shift_std": 1.087725466363315,
+        "shift_pct": 20.29411512964659,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Cotton(lint)",
+        "break_year": 2004,
+        "break_season": "Kharif     ",
+        "shift_std": 1.0206049293873105,
+        "shift_pct": -59.36783925519188,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Dry chillies",
+        "break_year": 2009,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4288182823219262,
+        "shift_pct": -9.534326290939484,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Garlic",
+        "break_year": 2011,
+        "break_season": "Rabi       ",
+        "shift_std": 1.3319374936910306,
+        "shift_pct": 19.269259276556653,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Ginger",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.060007215379796,
+        "shift_pct": 52.92892661066103,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Gram",
+        "break_year": 2017,
+        "break_season": "Rabi       ",
+        "shift_std": 1.5312772355574586,
+        "shift_pct": 33.541673151341016,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Groundnut",
+        "break_year": 2008,
+        "break_season": "Kharif     ",
+        "shift_std": 1.0855402405990082,
+        "shift_pct": 18.601997200057014,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Guar seed",
+        "break_year": 2014,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5556378221312142,
+        "shift_pct": -9.261129347026172,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Jowar",
+        "break_year": 2017,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5541989300656829,
+        "shift_pct": 19.948093372078265,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Jowar",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3102706260063575,
+        "shift_pct": 18.80274305692608,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Linseed",
+        "break_year": 2017,
+        "break_season": "Rabi       ",
+        "shift_std": 2.085519588208811,
+        "shift_pct": 60.637462189384514,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Maize",
+        "break_year": 2004,
+        "break_season": "Kharif     ",
+        "shift_std": 1.0562026123536041,
+        "shift_pct": 55.46899060098964,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2007,
+        "break_season": "Summer     ",
+        "shift_std": 0.8278466823650243,
+        "shift_pct": 37.85290499736047,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Onion",
+        "break_year": 2006,
+        "break_season": "Rabi       ",
+        "shift_std": 1.000550602938334,
+        "shift_pct": 27.97375797042374,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Peas & beans (Pulses)",
+        "break_year": 2016,
+        "break_season": "Rabi       ",
+        "shift_std": 1.2880110747337905,
+        "shift_pct": 18.12921457348044,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Potato",
+        "break_year": 2017,
+        "break_season": "Rabi       ",
+        "shift_std": 1.7387972283069464,
+        "shift_pct": 21.731287448662627,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2017,
+        "break_season": "Rabi       ",
+        "shift_std": 1.7376777117298736,
+        "shift_pct": 29.111819117211308,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.2159599515741002,
+        "shift_pct": 22.074854559825187,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Rice",
+        "break_year": 2018,
+        "break_season": "Kharif     ",
+        "shift_std": 2.2614051983525822,
+        "shift_pct": 28.679666942568467,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Rice",
+        "break_year": 2010,
+        "break_season": "Summer     ",
+        "shift_std": 1.573076515769086,
+        "shift_pct": 21.225246765926567,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Sannhamp",
+        "break_year": 2016,
+        "break_season": "Kharif     ",
+        "shift_std": 1.074055190674768,
+        "shift_pct": -26.700353972841224,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Sugarcane",
+        "break_year": 2016,
+        "break_season": "Kharif     ",
+        "shift_std": 2.2952497818263935,
+        "shift_pct": 28.155683522933973,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Sugarcane",
+        "break_year": 2011,
+        "break_season": "Kharif     ",
+        "shift_std": 1.7087097193092515,
+        "shift_pct": 21.646307341791506,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Sweet potato",
+        "break_year": 2014,
+        "break_season": "Kharif     ",
+        "shift_std": 1.477736200641974,
+        "shift_pct": -9.725406058673682,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Tobacco",
+        "break_year": 2004,
+        "break_season": "Whole Year ",
+        "shift_std": 1.5970375060029935,
+        "shift_pct": -38.463061365637266,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Tobacco",
+        "break_year": 2015,
+        "break_season": "Summer     ",
+        "shift_std": 1.2870762993369862,
+        "shift_pct": -41.112101321754714,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Turmeric",
+        "break_year": 2014,
+        "break_season": "Rabi       ",
+        "shift_std": 1.1839119128231976,
+        "shift_pct": -41.39354462634338,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Turmeric",
+        "break_year": 2003,
+        "break_season": "Whole Year ",
+        "shift_std": 0.6871357173132796,
+        "shift_pct": 34.38525580359524,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Urad",
+        "break_year": 2017,
+        "break_season": "Summer     ",
+        "shift_std": 1.4281218369654425,
+        "shift_pct": 29.868786464039854,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Urad",
+        "break_year": 2007,
+        "break_season": "Summer     ",
+        "shift_std": 1.4240242987526932,
+        "shift_pct": 34.98987130719244,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Wheat",
+        "break_year": 2017,
+        "break_season": "Rabi       ",
+        "shift_std": 2.0843857011196203,
+        "shift_pct": 34.27463022567825,
+        "explanation": null
+    },
+    {
+        "state": "Uttar Pradesh",
+        "crop": "Wheat",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.2132792133365558,
+        "shift_pct": 21.407532232174812,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Arhar/Tur",
+        "break_year": 2010,
+        "break_season": "Kharif     ",
+        "shift_std": 1.1104905359137809,
+        "shift_pct": 13.605654156888752,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Bajra",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5378498459217371,
+        "shift_pct": -16.88749684628707,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Barley",
+        "break_year": 2010,
+        "break_season": "Rabi       ",
+        "shift_std": 1.2379659197220538,
+        "shift_pct": 21.019772823063114,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Gram",
+        "break_year": 2010,
+        "break_season": "Rabi       ",
+        "shift_std": 1.1341299555885873,
+        "shift_pct": 19.729949500016076,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Groundnut",
+        "break_year": 2010,
+        "break_season": "Kharif     ",
+        "shift_std": 1.2882582358464856,
+        "shift_pct": 24.04761957264143,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Horse-gram",
+        "break_year": 2010,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6171392293661435,
+        "shift_pct": 33.831346847471416,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Maize",
+        "break_year": 2012,
+        "break_season": "Summer     ",
+        "shift_std": 0.9380642669329293,
+        "shift_pct": 20.211552589692474,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Masoor",
+        "break_year": 2010,
+        "break_season": "Rabi       ",
+        "shift_std": 1.6811953497234031,
+        "shift_pct": 46.64534075262717,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.1852100025601928,
+        "shift_pct": 77.8087427342623,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Moth",
+        "break_year": 2011,
+        "break_season": "Kharif     ",
+        "shift_std": 0.8924558954598792,
+        "shift_pct": 43.00262725248045,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Onion",
+        "break_year": 2018,
+        "break_season": "Whole Year ",
+        "shift_std": 2.0009562699454295,
+        "shift_pct": 99.6239929253446,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Other  Rabi pulses",
+        "break_year": 2015,
+        "break_season": "Rabi       ",
+        "shift_std": 1.4697821559204602,
+        "shift_pct": 62.041940228789805,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Other Kharif pulses",
+        "break_year": 2005,
+        "break_season": "Kharif     ",
+        "shift_std": 1.3140281884559977,
+        "shift_pct": 53.84923630726225,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Potato",
+        "break_year": 2002,
+        "break_season": "Rabi       ",
+        "shift_std": 2.495631312303651,
+        "shift_pct": -46.89505481337073,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Potato",
+        "break_year": 2006,
+        "break_season": "Rabi       ",
+        "shift_std": 1.9044896517749792,
+        "shift_pct": -41.74482801434594,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Ragi",
+        "break_year": 2005,
+        "break_season": "Kharif     ",
+        "shift_std": 1.5752239879616594,
+        "shift_pct": 11.661427303843132,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2010,
+        "break_season": "Rabi       ",
+        "shift_std": 1.553366322064894,
+        "shift_pct": 33.33505103638839,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Sesamum",
+        "break_year": 2005,
+        "break_season": "Kharif     ",
+        "shift_std": 1.6556687780131156,
+        "shift_pct": 43.2151882578379,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Small millets",
+        "break_year": 2013,
+        "break_season": "Kharif     ",
+        "shift_std": 1.150687866609648,
+        "shift_pct": 15.437158337894722,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Sugarcane",
+        "break_year": 2015,
+        "break_season": "Whole Year ",
+        "shift_std": 1.7499937266759429,
+        "shift_pct": 18.740109091396405,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Sunflower",
+        "break_year": 2016,
+        "break_season": "Kharif     ",
+        "shift_std": 1.0103792209514504,
+        "shift_pct": -23.68559848406261,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Tobacco",
+        "break_year": 2005,
+        "break_season": "Whole Year ",
+        "shift_std": 1.7281814347781084,
+        "shift_pct": -56.900367349942336,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Urad",
+        "break_year": 2017,
+        "break_season": "Summer     ",
+        "shift_std": 1.6657213936726976,
+        "shift_pct": 74.31228800938386,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Urad",
+        "break_year": 2005,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4321242748677216,
+        "shift_pct": 100.28928206306583,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "Wheat",
+        "break_year": 2015,
+        "break_season": "Rabi       ",
+        "shift_std": 1.5532331853659256,
+        "shift_pct": 25.368843568507906,
+        "explanation": null
+    },
+    {
+        "state": "Uttarakhand",
+        "crop": "other oilseeds",
+        "break_year": 2009,
+        "break_season": "Kharif     ",
+        "shift_std": 1.1205707084901997,
+        "shift_pct": 32.65284697587273,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Arhar/Tur",
+        "break_year": 2017,
+        "break_season": "Rabi       ",
+        "shift_std": 2.2370227739771935,
+        "shift_pct": 117.32480982483506,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Arhar/Tur",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 1.530959918535774,
+        "shift_pct": 91.89601917933085,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Barley",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.170654226551349,
+        "shift_pct": 33.22522271999869,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Castor seed",
+        "break_year": 2008,
+        "break_season": "Kharif     ",
+        "shift_std": 0.9502043250057852,
+        "shift_pct": -28.486292866671143,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Coconut ",
+        "break_year": 2002,
+        "break_season": "Whole Year ",
+        "shift_std": 1.3178695144698853,
+        "shift_pct": -4.211093120621117,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Cotton(lint)",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 0.9869087453830594,
+        "shift_pct": 59.81247677991504,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Dry chillies",
+        "break_year": 2005,
+        "break_season": "Whole Year ",
+        "shift_std": 1.6339480097594934,
+        "shift_pct": 34.76701410474808,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Ginger",
+        "break_year": 2003,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4890617589881376,
+        "shift_pct": 11.052292144013135,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Gram",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.455666399634763,
+        "shift_pct": 34.53159609930148,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Groundnut",
+        "break_year": 2010,
+        "break_season": "Rabi       ",
+        "shift_std": 0.9670617256353762,
+        "shift_pct": 31.70569230212373,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Horse-gram",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.355899588165431,
+        "shift_pct": 21.737291663965188,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Jute",
+        "break_year": 2017,
+        "break_season": "Kharif     ",
+        "shift_std": 1.80991055112444,
+        "shift_pct": 29.234237095717337,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Khesari",
+        "break_year": 2011,
+        "break_season": "Rabi       ",
+        "shift_std": 1.1207295771933192,
+        "shift_pct": 19.985403628856847,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Maize",
+        "break_year": 2015,
+        "break_season": "Rabi       ",
+        "shift_std": 1.2993612708533093,
+        "shift_pct": 29.405034506999638,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Maize",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.161721716212492,
+        "shift_pct": 30.053984598639584,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Masoor",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 1.4229471821190827,
+        "shift_pct": 22.526195230326355,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Mesta",
+        "break_year": 2012,
+        "break_season": "Kharif     ",
+        "shift_std": 1.1586862113903482,
+        "shift_pct": 19.56955423297237,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2007,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4419645100694447,
+        "shift_pct": 44.195410107939765,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Moong(Green Gram)",
+        "break_year": 2013,
+        "break_season": "Summer     ",
+        "shift_std": 1.3433627608956455,
+        "shift_pct": 36.23058763979903,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Niger seed",
+        "break_year": 2011,
+        "break_season": "Kharif     ",
+        "shift_std": 0.9742481733299,
+        "shift_pct": 14.887432277650337,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Other  Rabi pulses",
+        "break_year": 2014,
+        "break_season": "Rabi       ",
+        "shift_std": 1.4540166450203478,
+        "shift_pct": 48.7952572214158,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Other Kharif pulses",
+        "break_year": 2017,
+        "break_season": "Kharif     ",
+        "shift_std": 1.8836101253180566,
+        "shift_pct": 24.844576193810134,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Peas & beans (Pulses)",
+        "break_year": 2013,
+        "break_season": "Rabi       ",
+        "shift_std": 1.1979487540970721,
+        "shift_pct": 27.740292633416054,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Ragi",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 1.794269781750721,
+        "shift_pct": -15.832931131644596,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Rapeseed &Mustard",
+        "break_year": 2012,
+        "break_season": "Rabi       ",
+        "shift_std": 1.5445155732257267,
+        "shift_pct": 23.5416235398634,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Rice",
+        "break_year": 2010,
+        "break_season": "Summer     ",
+        "shift_std": 0.9505447057240621,
+        "shift_pct": 18.658221207000487,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Safflower",
+        "break_year": 2002,
+        "break_season": "Rabi       ",
+        "shift_std": 1.7564862051727748,
+        "shift_pct": 105.40636946947784,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Sannhamp",
+        "break_year": 2011,
+        "break_season": "Kharif     ",
+        "shift_std": 0.8867904930970333,
+        "shift_pct": -10.338059336418079,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Sesamum",
+        "break_year": 2012,
+        "break_season": "Summer     ",
+        "shift_std": 0.8917063433759187,
+        "shift_pct": 17.09393401675513,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Soyabean",
+        "break_year": 2017,
+        "break_season": "Kharif     ",
+        "shift_std": 2.076469215578294,
+        "shift_pct": 68.46852712742366,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Sugarcane",
+        "break_year": 2007,
+        "break_season": "Whole Year ",
+        "shift_std": 1.327965209967548,
+        "shift_pct": 24.301347520013213,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Sunflower",
+        "break_year": 2002,
+        "break_season": "Kharif     ",
+        "shift_std": 1.4166644188713309,
+        "shift_pct": 57.89900171673684,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Tobacco",
+        "break_year": 2009,
+        "break_season": "Whole Year ",
+        "shift_std": 1.7630126714508827,
+        "shift_pct": 75.1354738252632,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Turmeric",
+        "break_year": 2002,
+        "break_season": "Whole Year ",
+        "shift_std": 1.7200431453068634,
+        "shift_pct": 24.81417355733665,
+        "explanation": null
+    },
+    {
+        "state": "West Bengal",
+        "crop": "Wheat",
+        "break_year": 2007,
+        "break_season": "Rabi       ",
+        "shift_std": 1.6329227262781234,
+        "shift_pct": 19.29840254006994,
+        "explanation": null
+    }
+]
