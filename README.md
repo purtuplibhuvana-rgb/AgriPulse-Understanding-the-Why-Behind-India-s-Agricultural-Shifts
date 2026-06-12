@@ -16,7 +16,7 @@ This engine solves this by:
 
 ---
 
-## 🔍 Methodology (Simple English)
+## 🔍 Methodology
 
 ### Stage 1: Finding the Break Points
 For every crop and state combination that has at least 8 years of historical records, we analyze the yield time series. Using a mathematical algorithm called **PELT (Pruned Exact Linear Time)** from the `ruptures` library, we find years where the yield trend suddenly and permanently shifts (up or down).
